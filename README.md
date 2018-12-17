@@ -32,8 +32,8 @@ The scripts below are in myALNSB/Lung-Nodule-Detection-C-Benchmark:
   or feedtwice.py autoencoder training and generation.
   
 In myALNSB/Lung-Nodule-Dection-C-Benchmark/stages/classification:
-* classification_step.c: processes nodule for classifier step and generates
-  accepted images with KEEPCSV tokens and feature data with KEEPFEET tokens.
+* classification_step.c: processes nodules for classifier step and generates
+  accepted images with KEEPCSV tokens and feature data with KEEPFEAT tokens.
 
 ## Author
 
