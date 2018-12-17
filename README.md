@@ -36,6 +36,6 @@ In myALNSB/Lung-Nodule-Dection-C-Benchmark/stages/classification:
 
 ## Author
 
-Steve Kommrusch is the author of the LuNG autoencoder code, changes to the ALNSB analizer, summary, and processing scripts.
+Steve Kommrusch is the author of the LuNG autoencoder code, changes to the ALNSB analyzer, summary, and processing scripts.
 
 # LuNG3D
