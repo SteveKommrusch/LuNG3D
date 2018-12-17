@@ -30,6 +30,7 @@ The scripts below are in myALNSB/Lung-Nodule-Detection-C-Benchmark:
     (analyzer evaluation of nodules). 
 * run64Single.sh runs 6 iteration of run4Single to interact with nofeed6.py
   or feedtwice.py autoencoder training and generation.
+  
 In myALNSB/Lung-Nodule-Dection-C-Benchmark/stages/classification:
 * classification_step.c: processes nodule for classifier step and generates
   accepted images with KEEPCSV tokens and feature data with KEEPFEET tokens.
