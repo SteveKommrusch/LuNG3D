@@ -1,0 +1,141 @@
+   310    310  25948 ../La/EXP32_5_64_1K/pass1/feat.csv
+   343    343  28484 ../La/EXP32_5_64_1K/pass2/feat.csv
+   340    340  28192 ../La/EXP32_5_64_1K/pass3/feat.csv
+   341    341  28209 ../La/EXP32_5_64_1K/pass4/feat.csv
+   337    337  27928 ../La/EXP32_5_64_1K/pass5/feat.csv
+   344    344  28544 ../La/EXP32_5_64_1K/pass6/feat.csv
+   318    318  26654 ../Lb/EXP32_5_64_1K/pass1/feat.csv
+   337    337  28134 ../Lb/EXP32_5_64_1K/pass2/feat.csv
+   271    271  22704 ../Lb/EXP32_5_64_1K/pass3/feat.csv
+   226    226  19045 ../Lb/EXP32_5_64_1K/pass4/feat.csv
+   265    265  22162 ../Lb/EXP32_5_64_1K/pass5/feat.csv
+   288    288  24053 ../Lb/EXP32_5_64_1K/pass6/feat.csv
+   361    361  30180 ../Lc/EXP32_5_64_1K/pass1/feat.csv
+   353    353  29358 ../Lc/EXP32_5_64_1K/pass2/feat.csv
+   301    301  25148 ../Lc/EXP32_5_64_1K/pass3/feat.csv
+   282    282  23510 ../Lc/EXP32_5_64_1K/pass4/feat.csv
+   291    291  24162 ../Lc/EXP32_5_64_1K/pass5/feat.csv
+   298    298  24745 ../Lc/EXP32_5_64_1K/pass6/feat.csv
+   357    357  29822 ../LuNG/EXP32_5_64_1K/pass1/feat.csv
+   365    365  30329 ../LuNG/EXP32_5_64_1K/pass2/feat.csv
+   362    362  30010 ../LuNG/EXP32_5_64_1K/pass3/feat.csv
+   354    354  29338 ../LuNG/EXP32_5_64_1K/pass4/feat.csv
+   346    346  28646 ../LuNG/EXP32_5_64_1K/pass5/feat.csv
+   350    350  29008 ../LuNG/EXP32_5_64_1K/pass6/feat.csv
+  7740   7740 644313 total
+../La/EXP32_5_64_1K/pass1/python.out:INFO: iteration 25000: 521.6865234375
+../La/EXP32_5_64_1K/pass2/python.out:INFO: iteration 25000: 352.31036376953125
+../La/EXP32_5_64_1K/pass3/python.out:INFO: iteration 25000: 237.95492553710938
+../La/EXP32_5_64_1K/pass4/python.out:INFO: iteration 25000: 319.0802307128906
+../La/EXP32_5_64_1K/pass5/python.out:INFO: iteration 25000: 260.710205078125
+../La/EXP32_5_64_1K/pass6/python.out:INFO: iteration 25000: 275.06640625
+../Lb/EXP32_5_64_1K/pass1/python.out:INFO: iteration 25000: 581.730224609375
+../Lb/EXP32_5_64_1K/pass2/python.out:INFO: iteration 25000: 350.56170654296875
+../Lb/EXP32_5_64_1K/pass3/python.out:INFO: iteration 25000: 624.5123291015625
+../Lb/EXP32_5_64_1K/pass4/python.out:INFO: iteration 25000: 664.9677734375
+../Lb/EXP32_5_64_1K/pass5/python.out:INFO: iteration 25000: 193.64801025390625
+../Lb/EXP32_5_64_1K/pass6/python.out:INFO: iteration 25000: 216.7001190185547
+../Lc/EXP32_5_64_1K/pass1/python.out:INFO: iteration 25000: 634.6891479492188
+../Lc/EXP32_5_64_1K/pass2/python.out:INFO: iteration 25000: 375.14910888671875
+../Lc/EXP32_5_64_1K/pass3/python.out:INFO: iteration 25000: 570.359619140625
+../Lc/EXP32_5_64_1K/pass4/python.out:INFO: iteration 25000: 517.7239990234375
+../Lc/EXP32_5_64_1K/pass5/python.out:INFO: iteration 25000: 206.9498291015625
+../Lc/EXP32_5_64_1K/pass6/python.out:INFO: iteration 25000: 200.7220916748047
+../LuNG/EXP32_5_64_1K/pass1/python.out:INFO: iteration 25000: 649.2015380859375
+../LuNG/EXP32_5_64_1K/pass2/python.out:INFO: iteration 25000: 442.9767761230469
+../LuNG/EXP32_5_64_1K/pass3/python.out:INFO: iteration 25000: 295.069091796875
+../LuNG/EXP32_5_64_1K/pass4/python.out:INFO: iteration 25000: 238.3462677001953
+../LuNG/EXP32_5_64_1K/pass5/python.out:INFO: iteration 25000: 329.6259765625
+../LuNG/EXP32_5_64_1K/pass6/python.out:INFO: iteration 25000: 217.53509521484375
+../La/EXP32_5_64_1K/pass2/python.out:Images generated: 420, clean: 121, simple: 115, inverted: 0
+../La/EXP32_5_64_1K/pass3/python.out:Images generated: 420, clean: 129, simple: 145, inverted: 0
+../La/EXP32_5_64_1K/pass4/python.out:Images generated: 420, clean: 129, simple: 145, inverted: 0
+../La/EXP32_5_64_1K/pass5/python.out:Images generated: 420, clean: 111, simple: 164, inverted: 0
+../La/EXP32_5_64_1K/pass6/python.out:Images generated: 420, clean: 116, simple: 176, inverted: 0
+../Lb/EXP32_5_64_1K/pass2/python.out:Images generated: 420, clean: 113, simple: 129, inverted: 0
+../Lb/EXP32_5_64_1K/pass3/python.out:Images generated: 420, clean: 107, simple: 143, inverted: 0
+../Lb/EXP32_5_64_1K/pass4/python.out:Images generated: 420, clean: 50, simple: 146, inverted: 0
+../Lb/EXP32_5_64_1K/pass5/python.out:Images generated: 420, clean: 38, simple: 156, inverted: 0
+../Lb/EXP32_5_64_1K/pass6/python.out:Images generated: 420, clean: 62, simple: 159, inverted: 0
+../Lc/EXP32_5_64_1K/pass2/python.out:Images generated: 420, clean: 130, simple: 132, inverted: 0
+../Lc/EXP32_5_64_1K/pass3/python.out:Images generated: 420, clean: 130, simple: 132, inverted: 0
+../Lc/EXP32_5_64_1K/pass4/python.out:Images generated: 420, clean: 68, simple: 151, inverted: 0
+../Lc/EXP32_5_64_1K/pass5/python.out:Images generated: 420, clean: 68, simple: 142, inverted: 0
+../Lc/EXP32_5_64_1K/pass6/python.out:Images generated: 420, clean: 69, simple: 158, inverted: 0
+../LuNG/EXP32_5_64_1K/pass2/python.out:Images generated: 420, clean: 119, simple: 124, inverted: 0
+../LuNG/EXP32_5_64_1K/pass3/python.out:Images generated: 420, clean: 137, simple: 134, inverted: 0
+../LuNG/EXP32_5_64_1K/pass4/python.out:Images generated: 420, clean: 131, simple: 133, inverted: 0
+../LuNG/EXP32_5_64_1K/pass5/python.out:Images generated: 420, clean: 105, simple: 164, inverted: 0
+../LuNG/EXP32_5_64_1K/pass6/python.out:Images generated: 420, clean: 111, simple: 152, inverted: 0
+../La/EXP32_5_64_1K/pass1/err.csv: 0.20353
+../La/EXP32_5_64_1K/pass2/err.csv: 0.09925
+../La/EXP32_5_64_1K/pass3/err.csv: 0.08308
+../La/EXP32_5_64_1K/pass4/err.csv: 0.07425
+../La/EXP32_5_64_1K/pass5/err.csv: 0.07127
+../La/EXP32_5_64_1K/pass6/err.csv: 0.06833
+../Lb/EXP32_5_64_1K/pass1/err.csv: 0.20235
+../Lb/EXP32_5_64_1K/pass2/err.csv: 0.09922
+../Lb/EXP32_5_64_1K/pass3/err.csv: 0.09637
+../Lb/EXP32_5_64_1K/pass4/err.csv: 0.08371
+../Lb/EXP32_5_64_1K/pass5/err.csv: 0.07302
+../Lb/EXP32_5_64_1K/pass6/err.csv: 0.07020
+../Lc/EXP32_5_64_1K/pass1/err.csv: 0.19325
+../Lc/EXP32_5_64_1K/pass2/err.csv: 0.08949
+../Lc/EXP32_5_64_1K/pass3/err.csv: 0.08486
+../Lc/EXP32_5_64_1K/pass4/err.csv: 0.07302
+../Lc/EXP32_5_64_1K/pass5/err.csv: 0.06398
+../Lc/EXP32_5_64_1K/pass6/err.csv: 0.05973
+../LuNG/EXP32_5_64_1K/pass1/err.csv: 0.23898
+../LuNG/EXP32_5_64_1K/pass2/err.csv: 0.12351
+../LuNG/EXP32_5_64_1K/pass3/err.csv: 0.10878
+../LuNG/EXP32_5_64_1K/pass4/err.csv: 0.10451
+../LuNG/EXP32_5_64_1K/pass5/err.csv: 0.10135
+../LuNG/EXP32_5_64_1K/pass6/err.csv: 0.09827
+../La/EXP32_5_64_1K/pass2/feederr.csv: 3.24885
+../La/EXP32_5_64_1K/pass3/feederr.csv: 2.04001
+../La/EXP32_5_64_1K/pass4/feederr.csv: 1.83016
+../La/EXP32_5_64_1K/pass5/feederr.csv: 1.48183
+../La/EXP32_5_64_1K/pass6/feederr.csv: 1.67015
+../La/EXP32_5_64_1K/pass7/feederr.csv: 1.50274
+../Lb/EXP32_5_64_1K/pass2/feederr.csv: 3.22347
+../Lb/EXP32_5_64_1K/pass3/feederr.csv: 2.91906
+../Lb/EXP32_5_64_1K/pass4/feederr.csv: 2.20763
+../Lb/EXP32_5_64_1K/pass5/feederr.csv: 2.51714
+../Lb/EXP32_5_64_1K/pass6/feederr.csv: 2.10051
+../Lb/EXP32_5_64_1K/pass7/feederr.csv: 1.72581
+../Lc/EXP32_5_64_1K/pass2/feederr.csv: 3.08152
+../Lc/EXP32_5_64_1K/pass3/feederr.csv: 2.04748
+../Lc/EXP32_5_64_1K/pass4/feederr.csv: 1.85988
+../Lc/EXP32_5_64_1K/pass5/feederr.csv: 1.61794
+../Lc/EXP32_5_64_1K/pass6/feederr.csv: 1.34007
+../Lc/EXP32_5_64_1K/pass7/feederr.csv: 1.31878
+../LuNG/EXP32_5_64_1K/pass2/feederr.csv: 2.57171
+../LuNG/EXP32_5_64_1K/pass3/feederr.csv: 1.52068
+../LuNG/EXP32_5_64_1K/pass4/feederr.csv: 1.67266
+../LuNG/EXP32_5_64_1K/pass5/feederr.csv: 1.57091
+../LuNG/EXP32_5_64_1K/pass6/feederr.csv: 1.29879
+../LuNG/EXP32_5_64_1K/pass7/feederr.csv: 1.39137
+../La/EXP32_5_64_1K/pass1: Average min feature dist = 2.2707849938293982, MSE of Means = 0.17957749801765507
+../La/EXP32_5_64_1K/pass2: Average min feature dist = 1.9848037639823122, MSE of Means = 0.07054612278284367
+../La/EXP32_5_64_1K/pass3: Average min feature dist = 1.742390822642483, MSE of Means = 0.0464091895967916
+../La/EXP32_5_64_1K/pass4: Average min feature dist = 1.7095636798771, MSE of Means = 0.03432072621459762
+../La/EXP32_5_64_1K/pass5: Average min feature dist = 1.8648150331966509, MSE of Means = 0.07532694235396775
+../La/EXP32_5_64_1K/pass6: Average min feature dist = 1.9087547909146474, MSE of Means = 0.0786392813091273
+../Lb/EXP32_5_64_1K/pass1: Average min feature dist = 2.0746455067556178, MSE of Means = 0.16058688312962963
+../Lb/EXP32_5_64_1K/pass2: Average min feature dist = 2.027469759953887, MSE of Means = 0.1414286291304355
+../Lb/EXP32_5_64_1K/pass3: Average min feature dist = 2.807760334347349, MSE of Means = 0.4938158078075503
+../Lb/EXP32_5_64_1K/pass4: Average min feature dist = 4.33133579081702, MSE of Means = 1.5551679151443143
+../Lb/EXP32_5_64_1K/pass5: Average min feature dist = 3.014168591645299, MSE of Means = 0.5281228569729137
+../Lb/EXP32_5_64_1K/pass6: Average min feature dist = 2.8367721142608726, MSE of Means = 0.4396471315267263
+../Lc/EXP32_5_64_1K/pass1: Average min feature dist = 2.0826032971007384, MSE of Means = 0.15189679250276336
+../Lc/EXP32_5_64_1K/pass2: Average min feature dist = 1.9151078174422096, MSE of Means = 0.08408087486258609
+../Lc/EXP32_5_64_1K/pass3: Average min feature dist = 2.7622357372499446, MSE of Means = 0.4288162995580933
+../Lc/EXP32_5_64_1K/pass4: Average min feature dist = 2.750397731443398, MSE of Means = 0.43490799157492194
+../Lc/EXP32_5_64_1K/pass5: Average min feature dist = 2.4687991964861036, MSE of Means = 0.29132101834208396
+../Lc/EXP32_5_64_1K/pass6: Average min feature dist = 2.409321424986819, MSE of Means = 0.265671107643963
+../LuNG/EXP32_5_64_1K/pass1: Average min feature dist = 1.938464862479654, MSE of Means = 0.1108283572733247
+../LuNG/EXP32_5_64_1K/pass2: Average min feature dist = 1.7267994688904804, MSE of Means = 0.05042935559686157
+../LuNG/EXP32_5_64_1K/pass3: Average min feature dist = 1.8467000419851283, MSE of Means = 0.056957328590215184
+../LuNG/EXP32_5_64_1K/pass4: Average min feature dist = 1.8018022984444737, MSE of Means = 0.0566756345021228
+../LuNG/EXP32_5_64_1K/pass5: Average min feature dist = 1.684217298689064, MSE of Means = 0.032844722736626863
+../LuNG/EXP32_5_64_1K/pass6: Average min feature dist = 1.7177734676635628, MSE of Means = 0.042727029848416954

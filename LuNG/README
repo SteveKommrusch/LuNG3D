@@ -1,0 +1,22 @@
+# Unix commands involved with creating shapes
+
+make run-class > ~/a/alnsb.out
+# Generate features from alnsb.out
+perl -ne 'if ($in==1) { s/\s+/,/g; /^([^,]+,[^,]+,[^,]+,[^,]+,[^,]+,[^,]+,[^,]+,[^,]+,[^,]+,[^,]+,[^,]+,[^,]+,)/ && ($l = "$1") && ($in=2) } else { ($in==2) && /distance to pos: (\d+\.\d+,).*neg: (\d+\.\d+)/ && (print "$l$1$2\n") && ($in=0); /^featVec:/ && ($in = 1) }' alnsb.out > feat.csv
+perl -ne 'if ($in==1) { s/\s+/,/g; /^([^,]+,[^,]+,[^,]+,[^,]+,[^,]+,[^,]+,[^,]+,[^,]+,[^,]+,[^,]+,[^,]+,[^,]+,)/ && ($l = "$1") && ($in=2) } else { ($in==2) && /distance to pos: (\d+\.\d+,).*neg: (\d+\.\d+)/ && (print "$l$1$2\n") && ($in=0); /^KEEPFEAT:/ && ($in = 1) }' alnsb.out > feat.csv
+
+# Generate images from alnsb.out
+perl -ne 'if (s/\*\* Disp.*716 \*\*\n//) {$l=<>; $_.=$l; }; s/IMAGECSV: // && s/,$// && print' alnsb.out > img.csv
+perl -ne 'if (s/\*\* Disp.*716 \*\*\n//) {$l=<>; $_.=$l; }; s/KEEPCSV: // && s/,$// && print' alnsb.out > img2.csv
+
+# Get average of features from feat.csv
+perl -ne 'if (/(.*),(.*),(.*),(.*),(.*),(.*),(.*),(.*),(.*),(.*),(.*),(.*),.*,/) {$a+=$1;$b+=$2;$c+=$3;$d+=$4;$e+=$5;$f+=$6;$g+=$7;$h+=$8;$i+=$9;$j+=$10;$k+=$11;$l+=$12,$n+=1; printf("%.3f,%.3f,%.3f,%.3f,%.3f,%.3f,%.3f,%.3f,%.3f,%.3f,%.3f,%.3f,\n",$a/$n,$b/$n,$c/$n,$d/$n,$e/$n,$f/$n,$g/$n,$h/$n,$i/$n,$j/$n,$k/$n,$l/$n)}' feat.csv
+
+# Get standard deviations from feat.csv
+perl -ne 'if (/(.*),(.*),(.*),(.*),(.*),(.*),(.*),(.*),(.*),(.*),(.*),(.*),.*,/) {$a1+=$1;$a2+=$1**2;$b1+=$2;$b2+=$2**2;$c1+=$3;$c2+=$3**2;$d1+=$4;$d2+=$4**2;$e1+=$5;$e2+=$5**2;$f1+=$6;$f2+=$6**2;$g1+=$7;$g2+=$7**2;$h1+=$8;$h2+=$8**2;$i1+=$9;$i2+=$9**2;$j1+=$10;$j2+=$10**2;$k1+=$11;$k2+=$11**2;$l1+=$12,$l2+=$12**2;$n+=1; printf("%.3f,%.3f,%.3f,%.3f,%.3f,%.3f,%.3f,%.3f,%.3f,%.3f,%.3f,%.3f,\n",sqrt($n*$a2-$a1**2)/$n,sqrt($n*$b2-$b1**2)/$n,sqrt($n*$c2-$c1**2)/$n,sqrt($n*$d2-$d1**2)/$n,sqrt($n*$e2-$e1**2)/$n,sqrt($n*$f2-$f1**2)/$n,sqrt($n*$g2-$g1**2)/$n,sqrt($n*$h2-$h1**2)/$n,sqrt($n*$i2-$i1**2)/$n,sqrt($n*$j2-$j1**2)/$n,sqrt($n*$k2-$k1**2)/$n,sqrt($n*$l2-$l1**2)/$n)}' feat.csv
+
+ssh -XC maserati
+python   # Then see comments in Shapes.py
+mv out.csv segInputOverride.csv
+make run-seg > ~/a/seg.out
+

@@ -1,0 +1,1789 @@
+Starting network training
+INFO: iteration 50: 211418.40625
+INFO: iteration 100: 29233.822265625
+INFO: iteration 150: 14353.6435546875
+INFO: iteration 200: 15838.2568359375
+INFO: iteration 250: 9893.005859375
+INFO: iteration 300: 6577.5751953125
+INFO: iteration 350: 7035.06005859375
+INFO: iteration 400: 7863.71826171875
+INFO: iteration 450: 5990.27490234375
+INFO: iteration 500: 11311.451171875
+INFO: iteration 550: 8947.29296875
+INFO: iteration 600: 6682.50927734375
+INFO: iteration 650: 5912.23486328125
+INFO: iteration 700: 5664.43505859375
+INFO: iteration 750: 6899.77490234375
+INFO: iteration 800: 10321.609375
+INFO: iteration 850: 8243.76953125
+INFO: iteration 900: 8075.85400390625
+INFO: iteration 950: 4141.55322265625
+INFO: iteration 1000: 7115.88134765625
+INFO: iteration 1050: 6763.9736328125
+INFO: iteration 1100: 6173.5068359375
+INFO: iteration 1150: 11638.3583984375
+INFO: iteration 1200: 6662.197265625
+INFO: iteration 1250: 5234.0078125
+INFO: iteration 1300: 5769.63671875
+INFO: iteration 1350: 6644.0126953125
+INFO: iteration 1400: 5093.27783203125
+INFO: iteration 1450: 9385.7275390625
+INFO: iteration 1500: 8163.611328125
+INFO: iteration 1550: 6714.4462890625
+INFO: iteration 1600: 4957.32421875
+INFO: iteration 1650: 5134.89990234375
+INFO: iteration 1700: 6282.39208984375
+INFO: iteration 1750: 8048.2236328125
+INFO: iteration 1800: 7494.8193359375
+INFO: iteration 1850: 6786.375
+INFO: iteration 1900: 3898.91796875
+INFO: iteration 1950: 5288.72265625
+INFO: iteration 2000: 5193.59521484375
+INFO: iteration 2050: 6298.90234375
+INFO: iteration 2100: 7862.86376953125
+INFO: iteration 2150: 5658.85791015625
+INFO: iteration 2200: 5181.59716796875
+INFO: iteration 2250: 4811.9833984375
+INFO: iteration 2300: 4880.58154296875
+INFO: iteration 2350: 4495.62646484375
+INFO: iteration 2400: 6936.52001953125
+INFO: iteration 2450: 6496.052734375
+INFO: iteration 2500: 5568.326171875
+INFO: iteration 2550: 3525.4794921875
+INFO: iteration 2600: 5032.03369140625
+INFO: iteration 2650: 5130.49462890625
+INFO: iteration 2700: 4765.4189453125
+INFO: iteration 2750: 7944.0234375
+INFO: iteration 2800: 5232.185546875
+INFO: iteration 2850: 3895.343017578125
+INFO: iteration 2900: 4585.19140625
+INFO: iteration 2950: 5122.0400390625
+INFO: iteration 3000: 4058.010009765625
+INFO: iteration 3050: 7064.490234375
+INFO: iteration 3100: 5731.55078125
+INFO: iteration 3150: 4736.32080078125
+INFO: iteration 3200: 4134.08251953125
+INFO: iteration 3250: 4080.10693359375
+INFO: iteration 3300: 4474.9853515625
+INFO: iteration 3350: 6207.8681640625
+INFO: iteration 3400: 4853.51904296875
+INFO: iteration 3450: 4908.93798828125
+INFO: iteration 3500: 3187.272705078125
+INFO: iteration 3550: 4507.802734375
+INFO: iteration 3600: 4172.92138671875
+INFO: iteration 3650: 3966.416015625
+INFO: iteration 3700: 6142.44580078125
+INFO: iteration 3750: 4305.47216796875
+INFO: iteration 3800: 3573.912841796875
+INFO: iteration 3850: 4100.1103515625
+INFO: iteration 3900: 4119.3994140625
+INFO: iteration 3950: 3505.221923828125
+INFO: iteration 4000: 5398.0087890625
+INFO: iteration 4050: 4815.02001953125
+INFO: iteration 4100: 4335.849609375
+INFO: iteration 4150: 3430.2744140625
+INFO: iteration 4200: 3727.451171875
+INFO: iteration 4250: 4197.115234375
+INFO: iteration 4300: 5108.251953125
+INFO: iteration 4350: 4672.41943359375
+INFO: iteration 4400: 4580.1630859375
+INFO: iteration 4450: 3220.517333984375
+INFO: iteration 4500: 3954.10400390625
+INFO: iteration 4550: 3831.34423828125
+INFO: iteration 4600: 4464.685546875
+INFO: iteration 4650: 5289.78564453125
+INFO: iteration 4700: 4157.6162109375
+INFO: iteration 4750: 3995.0947265625
+INFO: iteration 4800: 3896.075927734375
+INFO: iteration 4850: 3813.58642578125
+INFO: iteration 4900: 3473.167236328125
+INFO: iteration 4950: 5189.85595703125
+INFO: iteration 5000: 4651.19775390625
+INFO: iteration 5050: 4349.62939453125
+INFO: iteration 5100: 2958.8466796875
+INFO: iteration 5150: 4087.29296875
+INFO: iteration 5200: 3992.500244140625
+INFO: iteration 5250: 3805.63330078125
+INFO: iteration 5300: 5743.31982421875
+INFO: iteration 5350: 4157.94384765625
+INFO: iteration 5400: 3355.242431640625
+INFO: iteration 5450: 3835.10302734375
+INFO: iteration 5500: 4044.205322265625
+INFO: iteration 5550: 3312.01123046875
+INFO: iteration 5600: 5469.8525390625
+INFO: iteration 5650: 4451.06982421875
+INFO: iteration 5700: 3844.633544921875
+INFO: iteration 5750: 3610.1025390625
+INFO: iteration 5800: 3552.47119140625
+INFO: iteration 5850: 3825.968505859375
+INFO: iteration 5900: 5408.53759765625
+INFO: iteration 5950: 4161.41455078125
+INFO: iteration 6000: 4432.986328125
+INFO: iteration 6050: 3031.834228515625
+INFO: iteration 6100: 4167.4521484375
+INFO: iteration 6150: 3842.837890625
+INFO: iteration 6200: 3644.822021484375
+INFO: iteration 6250: 5590.15771484375
+INFO: iteration 6300: 4010.903564453125
+INFO: iteration 6350: 3350.5576171875
+INFO: iteration 6400: 3890.673095703125
+INFO: iteration 6450: 3836.746826171875
+INFO: iteration 6500: 3247.86181640625
+INFO: iteration 6550: 5013.68408203125
+INFO: iteration 6600: 4425.037109375
+INFO: iteration 6650: 4053.3388671875
+INFO: iteration 6700: 3229.3046875
+INFO: iteration 6750: 3506.441650390625
+INFO: iteration 6800: 3890.677734375
+INFO: iteration 6850: 4672.3271484375
+INFO: iteration 6900: 4146.751953125
+INFO: iteration 6950: 4263.8349609375
+INFO: iteration 7000: 3017.1318359375
+INFO: iteration 7050: 3638.7548828125
+INFO: iteration 7100: 3487.441162109375
+INFO: iteration 7150: 3945.00634765625
+INFO: iteration 7200: 4621.98876953125
+INFO: iteration 7250: 3752.028076171875
+INFO: iteration 7300: 3643.61279296875
+INFO: iteration 7350: 3501.068115234375
+INFO: iteration 7400: 3420.861083984375
+INFO: iteration 7450: 3037.882568359375
+INFO: iteration 7500: 4459.8173828125
+INFO: iteration 7550: 4037.073974609375
+INFO: iteration 7600: 3843.663818359375
+INFO: iteration 7650: 2608.732421875
+INFO: iteration 7700: 3503.317138671875
+INFO: iteration 7750: 3469.950927734375
+INFO: iteration 7800: 3303.739990234375
+INFO: iteration 7850: 4802.18359375
+INFO: iteration 7900: 3576.55810546875
+INFO: iteration 7950: 2962.287841796875
+INFO: iteration 8000: 3252.902099609375
+INFO: iteration 8050: 3481.058837890625
+INFO: iteration 8100: 2834.714599609375
+INFO: iteration 8150: 4490.33203125
+INFO: iteration 8200: 3715.244873046875
+INFO: iteration 8250: 3322.7177734375
+INFO: iteration 8300: 2968.717041015625
+INFO: iteration 8350: 3029.380615234375
+INFO: iteration 8400: 3220.3544921875
+INFO: iteration 8450: 4320.51318359375
+INFO: iteration 8500: 3497.677734375
+INFO: iteration 8550: 3639.17138671875
+INFO: iteration 8600: 2619.416259765625
+INFO: iteration 8650: 3344.8671875
+INFO: iteration 8700: 3205.8984375
+INFO: iteration 8750: 3037.544921875
+INFO: iteration 8800: 4331.25537109375
+INFO: iteration 8850: 3308.415283203125
+INFO: iteration 8900: 2863.98779296875
+INFO: iteration 8950: 3162.84765625
+INFO: iteration 9000: 3151.674072265625
+INFO: iteration 9050: 2740.122314453125
+INFO: iteration 9100: 3935.1904296875
+INFO: iteration 9150: 3541.507080078125
+INFO: iteration 9200: 3346.8720703125
+INFO: iteration 9250: 2568.538818359375
+INFO: iteration 9300: 2949.115966796875
+INFO: iteration 9350: 3200.861328125
+INFO: iteration 9400: 3709.75927734375
+INFO: iteration 9450: 3393.447998046875
+INFO: iteration 9500: 3381.5283203125
+INFO: iteration 9550: 2621.2880859375
+INFO: iteration 9600: 2976.587158203125
+INFO: iteration 9650: 2937.6728515625
+INFO: iteration 9700: 3297.419921875
+INFO: iteration 9750: 3720.32568359375
+INFO: iteration 9800: 3050.088623046875
+INFO: iteration 9850: 3020.777099609375
+INFO: iteration 9900: 2921.163818359375
+INFO: iteration 9950: 2872.48095703125
+INFO: iteration 10000: 2698.25244140625
+INFO: iteration 10050: 3709.529541015625
+INFO: iteration 10100: 3246.72705078125
+INFO: iteration 10150: 3157.578857421875
+INFO: iteration 10200: 2309.1103515625
+INFO: iteration 10250: 2993.866943359375
+INFO: iteration 10300: 2896.561767578125
+INFO: iteration 10350: 2899.9794921875
+INFO: iteration 10400: 3814.989990234375
+INFO: iteration 10450: 2818.431396484375
+INFO: iteration 10500: 2647.51513671875
+INFO: iteration 10550: 2839.923583984375
+INFO: iteration 10600: 2943.04296875
+INFO: iteration 10650: 2508.529052734375
+INFO: iteration 10700: 3727.434814453125
+INFO: iteration 10750: 2897.057861328125
+INFO: iteration 10800: 2792.6806640625
+INFO: iteration 10850: 2574.3994140625
+INFO: iteration 10900: 2709.433837890625
+INFO: iteration 10950: 2675.3662109375
+INFO: iteration 11000: 3657.230224609375
+INFO: iteration 11050: 2783.305908203125
+INFO: iteration 11100: 2895.157958984375
+INFO: iteration 11150: 2311.743896484375
+INFO: iteration 11200: 2947.15380859375
+INFO: iteration 11250: 2673.28369140625
+INFO: iteration 11300: 2609.707763671875
+INFO: iteration 11350: 3416.849609375
+INFO: iteration 11400: 2643.9921875
+INFO: iteration 11450: 2490.31298828125
+INFO: iteration 11500: 2773.85693359375
+INFO: iteration 11550: 2687.039794921875
+INFO: iteration 11600: 2402.948486328125
+INFO: iteration 11650: 3221.93408203125
+INFO: iteration 11700: 2759.43115234375
+INFO: iteration 11750: 2714.43798828125
+INFO: iteration 11800: 2236.961669921875
+INFO: iteration 11850: 2599.918212890625
+INFO: iteration 11900: 2639.736572265625
+INFO: iteration 11950: 3029.402099609375
+INFO: iteration 12000: 2618.808837890625
+INFO: iteration 12050: 2646.207763671875
+INFO: iteration 12100: 2302.3466796875
+INFO: iteration 12150: 2550.195068359375
+INFO: iteration 12200: 2488.434814453125
+INFO: iteration 12250: 2676.038330078125
+INFO: iteration 12300: 2856.739990234375
+INFO: iteration 12350: 2396.869873046875
+INFO: iteration 12400: 2490.681884765625
+INFO: iteration 12450: 2494.50390625
+INFO: iteration 12500: 2431.747314453125
+INFO: iteration 12550: 2255.689697265625
+INFO: iteration 12600: 2861.419189453125
+INFO: iteration 12650: 2429.463623046875
+INFO: iteration 12700: 2584.424072265625
+INFO: iteration 12750: 1963.2410888671875
+INFO: iteration 12800: 2542.416015625
+INFO: iteration 12850: 2319.271728515625
+INFO: iteration 12900: 2358.17236328125
+INFO: iteration 12950: 2673.924560546875
+INFO: iteration 13000: 2288.488525390625
+INFO: iteration 13050: 2233.1630859375
+INFO: iteration 13100: 2412.205810546875
+INFO: iteration 13150: 2371.084716796875
+INFO: iteration 13200: 2051.9462890625
+INFO: iteration 13250: 2647.361328125
+INFO: iteration 13300: 2205.64501953125
+INFO: iteration 13350: 2322.279052734375
+INFO: iteration 13400: 2141.305908203125
+INFO: iteration 13450: 2267.914306640625
+INFO: iteration 13500: 2082.486572265625
+INFO: iteration 13550: 2618.16064453125
+INFO: iteration 13600: 2077.012939453125
+INFO: iteration 13650: 2312.605712890625
+INFO: iteration 13700: 1975.154541015625
+INFO: iteration 13750: 2369.266845703125
+INFO: iteration 13800: 2085.11767578125
+INFO: iteration 13850: 2043.8851318359375
+INFO: iteration 13900: 2281.308349609375
+INFO: iteration 13950: 2169.255859375
+INFO: iteration 14000: 2074.10693359375
+INFO: iteration 14050: 2284.142333984375
+INFO: iteration 14100: 2101.700439453125
+INFO: iteration 14150: 1915.6043701171875
+INFO: iteration 14200: 2271.619140625
+INFO: iteration 14250: 2068.21923828125
+INFO: iteration 14300: 2217.994873046875
+INFO: iteration 14350: 1830.865234375
+INFO: iteration 14400: 2132.90673828125
+INFO: iteration 14450: 2029.8919677734375
+INFO: iteration 14500: 2174.937255859375
+INFO: iteration 14550: 1934.6441650390625
+INFO: iteration 14600: 2096.351318359375
+INFO: iteration 14650: 1953.670654296875
+INFO: iteration 14700: 2097.107666015625
+INFO: iteration 14750: 1944.9443359375
+INFO: iteration 14800: 2020.5867919921875
+INFO: iteration 14850: 2016.4674072265625
+INFO: iteration 14900: 1919.0338134765625
+INFO: iteration 14950: 2036.2606201171875
+INFO: iteration 15000: 2037.3668212890625
+INFO: iteration 15050: 1942.893310546875
+INFO: iteration 15100: 1804.4376220703125
+INFO: iteration 15150: 2109.99560546875
+INFO: iteration 15200: 1862.15380859375
+INFO: iteration 15250: 2069.958740234375
+INFO: iteration 15300: 1656.103271484375
+INFO: iteration 15350: 2047.0452880859375
+INFO: iteration 15400: 1845.94775390625
+INFO: iteration 15450: 1881.850830078125
+INFO: iteration 15500: 1954.615966796875
+INFO: iteration 15550: 1841.0546875
+INFO: iteration 15600: 1880.8465576171875
+INFO: iteration 15650: 1981.4947509765625
+INFO: iteration 15700: 1897.7467041015625
+INFO: iteration 15750: 1701.9310302734375
+INFO: iteration 15800: 1961.87744140625
+INFO: iteration 15850: 1777.8651123046875
+INFO: iteration 15900: 1913.270263671875
+INFO: iteration 15950: 1766.9366455078125
+INFO: iteration 16000: 1868.845458984375
+INFO: iteration 16050: 1721.510009765625
+INFO: iteration 16100: 2017.239501953125
+INFO: iteration 16150: 1707.25390625
+INFO: iteration 16200: 1834.1572265625
+INFO: iteration 16250: 1693.4332275390625
+INFO: iteration 16300: 1911.469482421875
+INFO: iteration 16350: 1714.6212158203125
+INFO: iteration 16400: 1695.000732421875
+INFO: iteration 16450: 1800.05078125
+INFO: iteration 16500: 1767.6806640625
+INFO: iteration 16550: 1744.9453125
+INFO: iteration 16600: 1888.0343017578125
+INFO: iteration 16650: 1721.2265625
+INFO: iteration 16700: 1622.6298828125
+INFO: iteration 16750: 1847.1524658203125
+INFO: iteration 16800: 1686.3804931640625
+INFO: iteration 16850: 1820.3599853515625
+INFO: iteration 16900: 1538.672119140625
+INFO: iteration 16950: 1785.2894287109375
+INFO: iteration 17000: 1694.435302734375
+INFO: iteration 17050: 1769.5626220703125
+INFO: iteration 17100: 1630.86376953125
+INFO: iteration 17150: 1701.9869384765625
+INFO: iteration 17200: 1654.535888671875
+INFO: iteration 17250: 1747.5762939453125
+INFO: iteration 17300: 1605.3017578125
+INFO: iteration 17350: 1702.24658203125
+INFO: iteration 17400: 1671.0303955078125
+INFO: iteration 17450: 1576.9520263671875
+INFO: iteration 17500: 1704.049072265625
+INFO: iteration 17550: 1698.156005859375
+INFO: iteration 17600: 1609.020751953125
+INFO: iteration 17650: 1560.383544921875
+INFO: iteration 17700: 1763.5714111328125
+INFO: iteration 17750: 1562.06103515625
+INFO: iteration 17800: 1701.6043701171875
+INFO: iteration 17850: 1420.2628173828125
+INFO: iteration 17900: 1700.832275390625
+INFO: iteration 17950: 1550.5726318359375
+INFO: iteration 18000: 1604.8912353515625
+INFO: iteration 18050: 1632.273193359375
+INFO: iteration 18100: 1524.203125
+INFO: iteration 18150: 1610.3692626953125
+INFO: iteration 18200: 1635.0718994140625
+INFO: iteration 18250: 1590.9466552734375
+INFO: iteration 18300: 1474.009521484375
+INFO: iteration 18350: 1634.800048828125
+INFO: iteration 18400: 1485.9425048828125
+INFO: iteration 18450: 1621.2655029296875
+INFO: iteration 18500: 1478.753662109375
+INFO: iteration 18550: 1581.9737548828125
+INFO: iteration 18600: 1473.0555419921875
+INFO: iteration 18650: 1677.814208984375
+INFO: iteration 18700: 1451.5106201171875
+INFO: iteration 18750: 1509.7705078125
+INFO: iteration 18800: 1465.5794677734375
+INFO: iteration 18850: 1596.2437744140625
+INFO: iteration 18900: 1444.6632080078125
+INFO: iteration 18950: 1458.9403076171875
+INFO: iteration 19000: 1492.015380859375
+INFO: iteration 19050: 1480.99560546875
+INFO: iteration 19100: 1509.1156005859375
+INFO: iteration 19150: 1578.359130859375
+INFO: iteration 19200: 1445.1395263671875
+INFO: iteration 19250: 1411.9549560546875
+INFO: iteration 19300: 1554.7701416015625
+INFO: iteration 19350: 1418.4140625
+INFO: iteration 19400: 1551.5716552734375
+INFO: iteration 19450: 1294.0089111328125
+INFO: iteration 19500: 1525.341064453125
+INFO: iteration 19550: 1441.4652099609375
+INFO: iteration 19600: 1490.9879150390625
+INFO: iteration 19650: 1379.9556884765625
+INFO: iteration 19700: 1423.5687255859375
+INFO: iteration 19750: 1443.8062744140625
+INFO: iteration 19800: 1477.3765869140625
+INFO: iteration 19850: 1361.27392578125
+INFO: iteration 19900: 1459.4039306640625
+INFO: iteration 19950: 1392.9129638671875
+INFO: iteration 20000: 1323.403076171875
+INFO: iteration 20050: 1479.2259521484375
+INFO: iteration 20100: 1435.69873046875
+INFO: iteration 20150: 1368.3021240234375
+INFO: iteration 20200: 1363.6966552734375
+INFO: iteration 20250: 1479.041259765625
+INFO: iteration 20300: 1310.19580078125
+INFO: iteration 20350: 1455.358154296875
+INFO: iteration 20400: 1226.624267578125
+INFO: iteration 20450: 1448.6326904296875
+INFO: iteration 20500: 1337.0679931640625
+INFO: iteration 20550: 1369.8773193359375
+INFO: iteration 20600: 1354.693603515625
+INFO: iteration 20650: 1281.8662109375
+INFO: iteration 20700: 1428.1378173828125
+INFO: iteration 20750: 1376.1103515625
+INFO: iteration 20800: 1372.1094970703125
+INFO: iteration 20850: 1280.3377685546875
+INFO: iteration 20900: 1365.940673828125
+INFO: iteration 20950: 1261.0074462890625
+INFO: iteration 21000: 1410.169677734375
+INFO: iteration 21050: 1262.901123046875
+INFO: iteration 21100: 1363.869873046875
+INFO: iteration 21150: 1279.9774169921875
+INFO: iteration 21200: 1405.5660400390625
+INFO: iteration 21250: 1239.4549560546875
+INFO: iteration 21300: 1281.6011962890625
+INFO: iteration 21350: 1294.640625
+INFO: iteration 21400: 1367.220458984375
+INFO: iteration 21450: 1259.1746826171875
+INFO: iteration 21500: 1255.2147216796875
+INFO: iteration 21550: 1243.205810546875
+INFO: iteration 21600: 1267.8465576171875
+INFO: iteration 21650: 1339.4547119140625
+INFO: iteration 21700: 1348.76611328125
+INFO: iteration 21750: 1257.3214111328125
+INFO: iteration 21800: 1237.834716796875
+INFO: iteration 21850: 1310.8302001953125
+INFO: iteration 21900: 1206.1243896484375
+INFO: iteration 21950: 1349.441162109375
+INFO: iteration 22000: 1118.008056640625
+INFO: iteration 22050: 1339.7042236328125
+INFO: iteration 22100: 1259.6954345703125
+INFO: iteration 22150: 1273.0062255859375
+INFO: iteration 22200: 1173.4979248046875
+INFO: iteration 22250: 1221.8746337890625
+INFO: iteration 22300: 1279.3756103515625
+INFO: iteration 22350: 1279.2183837890625
+INFO: iteration 22400: 1198.7056884765625
+INFO: iteration 22450: 1260.470947265625
+INFO: iteration 22500: 1187.3050537109375
+INFO: iteration 22550: 1143.0452880859375
+INFO: iteration 22600: 1302.697509765625
+INFO: iteration 22650: 1247.5279541015625
+INFO: iteration 22700: 1201.8023681640625
+INFO: iteration 22750: 1210.178466796875
+INFO: iteration 22800: 1259.4498291015625
+INFO: iteration 22850: 1129.7362060546875
+INFO: iteration 22900: 1271.017578125
+INFO: iteration 22950: 1079.9207763671875
+INFO: iteration 23000: 1268.3853759765625
+INFO: iteration 23050: 1180.4464111328125
+INFO: iteration 23100: 1194.4844970703125
+INFO: iteration 23150: 1159.6507568359375
+INFO: iteration 23200: 1119.520751953125
+INFO: iteration 23250: 1274.1492919921875
+INFO: iteration 23300: 1194.6016845703125
+INFO: iteration 23350: 1211.9996337890625
+INFO: iteration 23400: 1131.0130615234375
+INFO: iteration 23450: 1179.828857421875
+INFO: iteration 23500: 1101.00732421875
+INFO: iteration 23550: 1245.13232421875
+INFO: iteration 23600: 1112.9168701171875
+INFO: iteration 23650: 1205.7330322265625
+INFO: iteration 23700: 1140.0177001953125
+INFO: iteration 23750: 1210.0052490234375
+INFO: iteration 23800: 1094.666748046875
+INFO: iteration 23850: 1124.193603515625
+INFO: iteration 23900: 1153.0394287109375
+INFO: iteration 23950: 1193.5933837890625
+INFO: iteration 24000: 1123.484375
+INFO: iteration 24050: 1105.308837890625
+INFO: iteration 24100: 1085.7144775390625
+INFO: iteration 24150: 1115.8046875
+INFO: iteration 24200: 1189.9332275390625
+INFO: iteration 24250: 1188.6549072265625
+INFO: iteration 24300: 1109.32470703125
+INFO: iteration 24350: 1111.615966796875
+INFO: iteration 24400: 1148.7667236328125
+INFO: iteration 24450: 1060.619140625
+INFO: iteration 24500: 1191.8736572265625
+INFO: iteration 24550: 997.1822509765625
+INFO: iteration 24600: 1191.2972412109375
+INFO: iteration 24650: 1126.1585693359375
+INFO: iteration 24700: 1124.5648193359375
+INFO: iteration 24750: 1031.705322265625
+INFO: iteration 24800: 1078.0517578125
+INFO: iteration 24850: 1144.58251953125
+INFO: iteration 24900: 1132.8653564453125
+INFO: iteration 24950: 1075.31396484375
+INFO: iteration 25000: 1121.43212890625
+INFO: Xout[0] accepted clean as generated
+INFO: Xout[1] accepted clean as generated
+INFO: Xout[2] accepted clean as generated
+INFO: Xout[3] has 4 components ... connecting
+INFO: This should be covered by other voxel (nearby = 10)
+INFO: Xout[4] accepted clean as generated
+INFO: Xout[5] accepted clean as generated
+INFO: Xout[6] accepted clean as generated
+INFO: Xout[7] accepted clean as generated
+INFO: Xout[8] accepted clean as generated
+INFO: Xout[9] accepted clean as generated
+INFO: Xout[10] accepted clean as generated
+INFO: Xout[11] accepted clean as generated
+INFO: Xout[12] has 3 components ... connecting
+INFO: Xout[13] accepted clean as generated
+INFO: Xout[14] accepted clean as generated
+INFO: Xout[15] accepted clean as generated
+INFO: Xout[16] accepted clean as generated
+INFO: Xout[17] accepted clean as generated
+INFO: Xout[18] accepted clean as generated
+INFO: Xout[19] accepted clean as generated
+INFO: Xout[20] has 2 components ... connecting
+INFO: Xout[21] accepted clean as generated
+INFO: Xout[22] accepted clean as generated
+INFO: Xout[23] has 2 components ... connecting
+INFO: Xout[24] accepted clean as generated
+INFO: Xout[25] accepted clean as generated
+INFO: Xout[26] accepted clean as generated
+INFO: Xout[27] has 2 components ... connecting
+INFO: Xout[28] accepted clean as generated
+INFO: Xout[29] accepted clean as generated
+INFO: Xout[30] accepted clean as generated
+INFO: Xout[31] accepted clean as generated
+INFO: Xout[32] accepted clean as generated
+INFO: Xout[33] accepted clean as generated
+INFO: Xout[34] accepted clean as generated
+INFO: Xout[35] accepted clean as generated
+INFO: Xout[36] has 2 components ... connecting
+INFO: This should be covered by other voxel (nearby = 6)
+INFO: This should be covered by other voxel (nearby = 6)
+INFO: Xout[37] accepted clean as generated
+INFO: Xout[38] accepted clean as generated
+INFO: Xout[39] accepted clean as generated
+INFO: Xout[40] accepted clean as generated
+INFO: Xout[41] accepted clean as generated
+INFO: Xout[42] accepted clean as generated
+INFO: Xout[43] accepted clean as generated
+INFO: Xout[44] accepted clean as generated
+INFO: Xout[45] accepted clean as generated
+INFO: Xout[46] has 2 components ... connecting
+INFO: Xout[47] accepted clean as generated
+INFO: Xout[48] accepted clean as generated
+INFO: Xout[49] accepted clean as generated
+INFO: Xout[50] accepted clean as generated
+Images generated: 51, clean: 44, simple: 4, inverted: 0
+INFO: Xout[0] has 3 components ... connecting
+INFO: Xout[1] has 4 components ... connecting
+INFO: This should be covered by other voxel (nearby = 6)
+INFO: This should be covered by other voxel (nearby = 6)
+INFO: Xout[2] has 3 components ... connecting
+INFO: Xout[3] has 4 components ... connecting
+INFO: This should be covered by other voxel (nearby = 20)
+INFO: This should be covered by other voxel (nearby = 20)
+INFO: This should be covered by other voxel (nearby = 20)
+INFO: Xout[4] accepted clean as generated
+INFO: Xout[5] has 6 components ... connecting
+INFO: This should be covered by other voxel (nearby = 10)
+INFO: This should be covered by other voxel (nearby = 10)
+INFO: This should be covered by other voxel (nearby = 12)
+INFO: This should be covered by other voxel (nearby = 12)
+INFO: This should be covered by other voxel (nearby = 24)
+INFO: Xout[6] has 7 components ... connecting
+INFO: This should be covered by other voxel (nearby = 18)
+INFO: This should be covered by other voxel (nearby = 12)
+INFO: This should be covered by other voxel (nearby = 12)
+INFO: This should be covered by other voxel (nearby = 132)
+INFO: This should be covered by other voxel (nearby = 36)
+INFO: Xout[7] has 2 components ... connecting
+INFO: Xout[8] accepted clean as generated
+INFO: Xout[9] has 3 components ... connecting
+INFO: Xout[10] has 2 components ... connecting
+INFO: Xout[11] has 2 components ... connecting
+INFO: Xout[12] has 5 components ... connecting
+INFO: This should be covered by other voxel (nearby = 24)
+INFO: This should be covered by other voxel (nearby = 36)
+INFO: This should be covered by other voxel (nearby = 48)
+INFO: This should be covered by other voxel (nearby = 36)
+INFO: This should be covered by other voxel (nearby = 36)
+INFO: This should be covered by other voxel (nearby = 24)
+INFO: This should be covered by other voxel (nearby = 24)
+INFO: This should be covered by other voxel (nearby = 48)
+INFO: This should be covered by other voxel (nearby = 24)
+INFO: This should be covered by other voxel (nearby = 48)
+INFO: Xout[13] accepted clean as generated
+INFO: Xout[14] accepted clean as generated
+INFO: Xout[15] has 3 components ... connecting
+INFO: This should be covered by other voxel (nearby = 6)
+INFO: This should be covered by other voxel (nearby = 10)
+INFO: This should be covered by other voxel (nearby = 10)
+INFO: This should be covered by other voxel (nearby = 6)
+INFO: This should be covered by other voxel (nearby = 10)
+INFO: Xout[16] has 2 components ... connecting
+INFO: Xout[17] has 3 components ... connecting
+INFO: This should be covered by other voxel (nearby = 6)
+INFO: This should be covered by other voxel (nearby = 6)
+INFO: This should be covered by other voxel (nearby = 6)
+INFO: This should be covered by other voxel (nearby = 6)
+INFO: Xout[18] has 2 components ... connecting
+INFO: Xout[19] has 24 components ... connecting
+INFO: This should be covered by other voxel (nearby = 12)
+INFO: This should be covered by other voxel (nearby = 68)
+INFO: This should be covered by other voxel (nearby = 288)
+INFO: This should be covered by other voxel (nearby = 144)
+INFO: This should be covered by other voxel (nearby = 320)
+INFO: This should be covered by other voxel (nearby = 768)
+INFO: This should be covered by other voxel (nearby = 16388)
+INFO: This should be covered by other voxel (nearby = 68)
+INFO: This should be covered by other voxel (nearby = 144)
+INFO: This should be covered by other voxel (nearby = 288)
+INFO: This should be covered by other voxel (nearby = 320)
+INFO: This should be covered by other voxel (nearby = 768)
+INFO: This should be covered by other voxel (nearby = 16388)
+INFO: This should be covered by other voxel (nearby = 12)
+INFO: This should be covered by other voxel (nearby = 68)
+INFO: This should be covered by other voxel (nearby = 288)
+INFO: This should be covered by other voxel (nearby = 144)
+INFO: This should be covered by other voxel (nearby = 320)
+INFO: This should be covered by other voxel (nearby = 768)
+INFO: This should be covered by other voxel (nearby = 16388)
+INFO: Xout[20] has 5 components ... connecting
+INFO: This should be covered by other voxel (nearby = 20)
+INFO: This should be covered by other voxel (nearby = 20)
+INFO: This should be covered by other voxel (nearby = 36)
+INFO: This should be covered by other voxel (nearby = 20)
+INFO: This should be covered by other voxel (nearby = 36)
+INFO: This should be covered by other voxel (nearby = 20)
+INFO: This should be covered by other voxel (nearby = 36)
+INFO: Xout[21] has 2 components ... connecting
+INFO: Xout[22] has 2 components ... connecting
+INFO: Xout[23] has 4 components ... connecting
+INFO: This should be covered by other voxel (nearby = 6)
+INFO: This should be covered by other voxel (nearby = 6)
+INFO: Xout[24] accepted clean as generated
+INFO: Xout[25] has 12 components ... connecting
+INFO: This should be covered by other voxel (nearby = 12)
+INFO: This should be covered by other voxel (nearby = 36)
+INFO: This should be covered by other voxel (nearby = 192)
+INFO: This should be covered by other voxel (nearby = 768)
+INFO: This should be covered by other voxel (nearby = 12)
+INFO: This should be covered by other voxel (nearby = 36)
+INFO: This should be covered by other voxel (nearby = 192)
+INFO: This should be covered by other voxel (nearby = 768)
+INFO: This should be covered by other voxel (nearby = 36)
+INFO: This should be covered by other voxel (nearby = 192)
+INFO: This should be covered by other voxel (nearby = 768)
+INFO: Xout[26] accepted clean as generated
+INFO: Xout[27] has 4 components ... connecting
+INFO: This should be covered by other voxel (nearby = 24)
+INFO: This should be covered by other voxel (nearby = 24)
+INFO: This should be covered by other voxel (nearby = 24)
+INFO: Xout[28] has 14 components ... connecting
+INFO: This should be covered by other voxel (nearby = 48)
+INFO: This should be covered by other voxel (nearby = 96)
+INFO: This should be covered by other voxel (nearby = 384)
+INFO: This should be covered by other voxel (nearby = 2050)
+INFO: This should be covered by other voxel (nearby = 6)
+INFO: This should be covered by other voxel (nearby = 48)
+INFO: This should be covered by other voxel (nearby = 96)
+INFO: This should be covered by other voxel (nearby = 384)
+INFO: This should be covered by other voxel (nearby = 48)
+INFO: This should be covered by other voxel (nearby = 96)
+INFO: This should be covered by other voxel (nearby = 2050)
+INFO: This should be covered by other voxel (nearby = 6)
+INFO: This should be covered by other voxel (nearby = 6)
+INFO: This should be covered by other voxel (nearby = 48)
+INFO: This should be covered by other voxel (nearby = 96)
+INFO: This should be covered by other voxel (nearby = 384)
+INFO: This should be covered by other voxel (nearby = 2050)
+INFO: This should be covered by other voxel (nearby = 1026)
+INFO: This should be covered by other voxel (nearby = 6)
+INFO: Xout[29] has 4 components ... connecting
+INFO: Xout[30] has 5 components ... connecting
+INFO: This should be covered by other voxel (nearby = 48)
+INFO: This should be covered by other voxel (nearby = 48)
+INFO: This should be covered by other voxel (nearby = 48)
+INFO: This should be covered by other voxel (nearby = 48)
+INFO: Xout[31] has 4 components ... connecting
+INFO: This should be covered by other voxel (nearby = 10)
+INFO: This should be covered by other voxel (nearby = 18)
+INFO: This should be covered by other voxel (nearby = 10)
+INFO: Xout[32] has 7 components ... connecting
+INFO: This should be covered by other voxel (nearby = 18)
+INFO: This should be covered by other voxel (nearby = 18)
+INFO: Xout[33] has 4 components ... connecting
+INFO: This should be covered by other voxel (nearby = 18)
+INFO: This should be covered by other voxel (nearby = 18)
+INFO: Xout[34] has 2 components ... connecting
+INFO: Xout[35] accepted clean as generated
+INFO: Xout[36] has 5 components ... connecting
+INFO: This should be covered by other voxel (nearby = 6)
+INFO: This should be covered by other voxel (nearby = 6)
+INFO: This should be covered by other voxel (nearby = 6)
+INFO: Xout[37] has 4 components ... connecting
+INFO: Xout[38] has 6 components ... connecting
+INFO: Xout[39] has 5 components ... connecting
+INFO: This should be covered by other voxel (nearby = 34)
+INFO: Xout[40] has 2 components ... connecting
+INFO: This should be covered by other voxel (nearby = 6)
+INFO: Xout[41] has 2 components ... connecting
+INFO: Xout[42] has 2 components ... connecting
+INFO: Xout[43] has 7 components ... connecting
+INFO: Xout[44] has 2 components ... connecting
+INFO: Xout[45] has 14 components ... connecting
+INFO: This should be covered by other voxel (nearby = 24)
+INFO: This should be covered by other voxel (nearby = 24)
+INFO: This should be covered by other voxel (nearby = 24)
+INFO: This should be covered by other voxel (nearby = 1280)
+INFO: This should be covered by other voxel (nearby = 2050)
+INFO: Xout[46] has 4 components ... connecting
+INFO: Xout[47] accepted clean as generated
+INFO: Xout[48] accepted clean as generated
+INFO: Xout[49] has 7 components ... connecting
+INFO: This should be covered by other voxel (nearby = 10)
+INFO: This should be covered by other voxel (nearby = 66)
+INFO: Xout[50] has 5 components ... connecting
+INFO: This should be covered by other voxel (nearby = 6)
+INFO: This should be covered by other voxel (nearby = 6)
+INFO: This should be covered by other voxel (nearby = 6)
+INFO: This should be covered by other voxel (nearby = 6)
+INFO: This should be covered by other voxel (nearby = 10)
+INFO: Xout[51] accepted clean as generated
+INFO: Xout[52] has 3 components ... connecting
+INFO: Xout[53] accepted clean as generated
+INFO: Xout[54] has 14 components ... connecting
+INFO: This should be covered by other voxel (nearby = 6)
+INFO: This should be covered by other voxel (nearby = 96)
+INFO: This should be covered by other voxel (nearby = 6)
+INFO: This should be covered by other voxel (nearby = 2560)
+INFO: This should be covered by other voxel (nearby = 514)
+INFO: This should be covered by other voxel (nearby = 96)
+INFO: This should be covered by other voxel (nearby = 2560)
+INFO: This should be covered by other voxel (nearby = 514)
+INFO: This should be covered by other voxel (nearby = 96)
+INFO: This should be covered by other voxel (nearby = 6)
+INFO: This should be covered by other voxel (nearby = 2560)
+INFO: This should be covered by other voxel (nearby = 2050)
+INFO: This should be covered by other voxel (nearby = 514)
+INFO: Xout[55] accepted clean as generated
+INFO: Xout[56] accepted clean as generated
+INFO: Xout[57] has 5 components ... connecting
+INFO: This should be covered by other voxel (nearby = 20)
+INFO: Xout[58] has 10 components ... connecting
+INFO: This should be covered by other voxel (nearby = 18)
+INFO: This should be covered by other voxel (nearby = 66)
+INFO: This should be covered by other voxel (nearby = 514)
+INFO: This should be covered by other voxel (nearby = 768)
+INFO: This should be covered by other voxel (nearby = 18)
+INFO: This should be covered by other voxel (nearby = 66)
+INFO: This should be covered by other voxel (nearby = 66)
+INFO: This should be covered by other voxel (nearby = 514)
+INFO: This should be covered by other voxel (nearby = 768)
+INFO: This should be covered by other voxel (nearby = 18)
+INFO: This should be covered by other voxel (nearby = 66)
+INFO: This should be covered by other voxel (nearby = 514)
+INFO: This should be covered by other voxel (nearby = 768)
+INFO: Xout[59] has 8 components ... connecting
+INFO: This should be covered by other voxel (nearby = 12)
+INFO: This should be covered by other voxel (nearby = 12)
+INFO: This should be covered by other voxel (nearby = 18)
+INFO: This should be covered by other voxel (nearby = 132)
+INFO: Xout[60] has 2 components ... connecting
+INFO: Xout[61] has 3 components ... connecting
+INFO: This should be covered by other voxel (nearby = 6)
+INFO: This should be covered by other voxel (nearby = 10)
+INFO: This should be covered by other voxel (nearby = 10)
+INFO: This should be covered by other voxel (nearby = 10)
+INFO: This should be covered by other voxel (nearby = 6)
+INFO: This should be covered by other voxel (nearby = 10)
+INFO: Xout[62] accepted clean as generated
+INFO: Xout[63] has 2 components ... connecting
+INFO: Xout[64] has 8 components ... connecting
+INFO: This should be covered by other voxel (nearby = 6)
+INFO: This should be covered by other voxel (nearby = 20)
+INFO: This should be covered by other voxel (nearby = 20)
+INFO: This should be covered by other voxel (nearby = 20)
+INFO: Xout[65] has 3 components ... connecting
+INFO: Xout[66] accepted clean as generated
+INFO: Xout[67] has 3 components ... connecting
+INFO: This should be covered by other voxel (nearby = 6)
+INFO: This should be covered by other voxel (nearby = 6)
+INFO: This should be covered by other voxel (nearby = 6)
+INFO: This should be covered by other voxel (nearby = 6)
+INFO: This should be covered by other voxel (nearby = 6)
+INFO: This should be covered by other voxel (nearby = 10)
+INFO: Xout[68] accepted clean as generated
+INFO: Xout[69] accepted clean as generated
+INFO: Xout[70] has 23 components ... connecting
+INFO: This should be covered by other voxel (nearby = 10)
+INFO: This should be covered by other voxel (nearby = 144)
+INFO: This should be covered by other voxel (nearby = 66)
+INFO: This should be covered by other voxel (nearby = 160)
+INFO: This should be covered by other voxel (nearby = 34)
+INFO: This should be covered by other voxel (nearby = 34)
+INFO: This should be covered by other voxel (nearby = 34)
+INFO: This should be covered by other voxel (nearby = 258)
+INFO: This should be covered by other voxel (nearby = 1026)
+INFO: This should be covered by other voxel (nearby = 135168)
+INFO: This should be covered by other voxel (nearby = 98304)
+INFO: This should be covered by other voxel (nearby = 10)
+INFO: This should be covered by other voxel (nearby = 144)
+INFO: This should be covered by other voxel (nearby = 160)
+INFO: This should be covered by other voxel (nearby = 258)
+INFO: This should be covered by other voxel (nearby = 135168)
+INFO: This should be covered by other voxel (nearby = 135168)
+INFO: This should be covered by other voxel (nearby = 10)
+INFO: This should be covered by other voxel (nearby = 144)
+INFO: This should be covered by other voxel (nearby = 66)
+INFO: This should be covered by other voxel (nearby = 160)
+INFO: This should be covered by other voxel (nearby = 258)
+INFO: This should be covered by other voxel (nearby = 1026)
+INFO: This should be covered by other voxel (nearby = 135168)
+INFO: This should be covered by other voxel (nearby = 98304)
+INFO: This should be covered by other voxel (nearby = 4194306)
+INFO: This should be covered by other voxel (nearby = 34)
+INFO: This should be covered by other voxel (nearby = 34)
+INFO: Xout[71] accepted clean as generated
+INFO: Xout[72] has 2 components ... connecting
+INFO: Xout[73] accepted clean as generated
+INFO: Xout[74] has 6 components ... connecting
+INFO: This should be covered by other voxel (nearby = 6)
+INFO: This should be covered by other voxel (nearby = 18)
+INFO: This should be covered by other voxel (nearby = 48)
+INFO: This should be covered by other voxel (nearby = 48)
+INFO: This should be covered by other voxel (nearby = 6)
+INFO: This should be covered by other voxel (nearby = 18)
+INFO: This should be covered by other voxel (nearby = 48)
+INFO: Xout[75] has 2 components ... connecting
+INFO: Xout[76] accepted clean as generated
+INFO: Xout[77] has 5 components ... connecting
+INFO: This should be covered by other voxel (nearby = 6)
+INFO: This should be covered by other voxel (nearby = 6)
+INFO: Xout[78] has 3 components ... connecting
+INFO: This should be covered by other voxel (nearby = 6)
+INFO: Xout[79] has 2 components ... connecting
+INFO: Xout[80] has 6 components ... connecting
+INFO: This should be covered by other voxel (nearby = 6)
+INFO: This should be covered by other voxel (nearby = 18)
+INFO: This should be covered by other voxel (nearby = 66)
+INFO: Xout[81] has 3 components ... connecting
+INFO: This should be covered by other voxel (nearby = 10)
+INFO: This should be covered by other voxel (nearby = 10)
+INFO: This should be covered by other voxel (nearby = 10)
+INFO: Xout[82] accepted clean as generated
+INFO: Xout[83] accepted clean as generated
+INFO: Xout[84] has 3 components ... connecting
+INFO: Xout[85] has 9 components ... connecting
+INFO: This should be covered by other voxel (nearby = 10)
+INFO: This should be covered by other voxel (nearby = 80)
+INFO: This should be covered by other voxel (nearby = 36)
+INFO: This should be covered by other voxel (nearby = 96)
+INFO: This should be covered by other voxel (nearby = 192)
+INFO: This should be covered by other voxel (nearby = 260)
+INFO: This should be covered by other voxel (nearby = 514)
+INFO: This should be covered by other voxel (nearby = 36)
+INFO: This should be covered by other voxel (nearby = 96)
+INFO: This should be covered by other voxel (nearby = 192)
+INFO: This should be covered by other voxel (nearby = 260)
+INFO: This should be covered by other voxel (nearby = 260)
+INFO: This should be covered by other voxel (nearby = 514)
+INFO: This should be covered by other voxel (nearby = 10)
+INFO: This should be covered by other voxel (nearby = 80)
+INFO: This should be covered by other voxel (nearby = 36)
+INFO: This should be covered by other voxel (nearby = 96)
+INFO: This should be covered by other voxel (nearby = 192)
+INFO: This should be covered by other voxel (nearby = 260)
+INFO: This should be covered by other voxel (nearby = 514)
+INFO: Xout[86] has 3 components ... connecting
+INFO: This should be covered by other voxel (nearby = 6)
+INFO: Xout[87] has 2 components ... connecting
+INFO: Xout[88] has 20 components ... connecting
+INFO: This should be covered by other voxel (nearby = 1536)
+INFO: This should be covered by other voxel (nearby = 1536)
+INFO: This should be covered by other voxel (nearby = 1536)
+INFO: This should be covered by other voxel (nearby = 6144)
+INFO: Xout[89] has 2 components ... connecting
+INFO: Xout[90] has 2 components ... connecting
+INFO: Xout[91] has 2 components ... connecting
+INFO: Xout[92] accepted clean as generated
+INFO: Xout[93] accepted clean as generated
+INFO: Xout[94] has 10 components ... connecting
+INFO: This should be covered by other voxel (nearby = 20)
+INFO: This should be covered by other voxel (nearby = 24)
+INFO: This should be covered by other voxel (nearby = 20)
+INFO: This should be covered by other voxel (nearby = 24)
+INFO: This should be covered by other voxel (nearby = 96)
+INFO: This should be covered by other voxel (nearby = 96)
+INFO: This should be covered by other voxel (nearby = 24)
+INFO: This should be covered by other voxel (nearby = 20)
+INFO: This should be covered by other voxel (nearby = 24)
+INFO: This should be covered by other voxel (nearby = 20)
+INFO: This should be covered by other voxel (nearby = 24)
+INFO: This should be covered by other voxel (nearby = 96)
+INFO: Xout[95] has 8 components ... connecting
+INFO: This should be covered by other voxel (nearby = 18)
+INFO: This should be covered by other voxel (nearby = 18)
+INFO: Xout[96] accepted clean as generated
+INFO: Xout[97] has 4 components ... connecting
+INFO: This should be covered by other voxel (nearby = 20)
+INFO: This should be covered by other voxel (nearby = 20)
+INFO: This should be covered by other voxel (nearby = 20)
+INFO: Xout[98] has 6 components ... connecting
+INFO: This should be covered by other voxel (nearby = 18)
+INFO: This should be covered by other voxel (nearby = 34)
+INFO: This should be covered by other voxel (nearby = 18)
+INFO: This should be covered by other voxel (nearby = 34)
+INFO: This should be covered by other voxel (nearby = 34)
+INFO: This should be covered by other voxel (nearby = 18)
+INFO: This should be covered by other voxel (nearby = 34)
+INFO: Xout[99] has 2 components ... connecting
+INFO: Xout[100] has 5 components ... connecting
+INFO: This should be covered by other voxel (nearby = 10)
+INFO: This should be covered by other voxel (nearby = 10)
+INFO: This should be covered by other voxel (nearby = 10)
+INFO: Xout[101] has 6 components ... connecting
+INFO: This should be covered by other voxel (nearby = 96)
+INFO: This should be covered by other voxel (nearby = 96)
+INFO: This should be covered by other voxel (nearby = 96)
+INFO: This should be covered by other voxel (nearby = 96)
+INFO: Xout[102] has 4 components ... connecting
+INFO: Xout[103] accepted clean as generated
+INFO: Xout[104] has 6 components ... connecting
+INFO: Xout[105] accepted clean as generated
+INFO: Xout[106] has 2 components ... connecting
+INFO: This should be covered by other voxel (nearby = 6)
+INFO: Xout[107] has 13 components ... connecting
+INFO: This should be covered by other voxel (nearby = 20)
+INFO: This should be covered by other voxel (nearby = 20)
+INFO: This should be covered by other voxel (nearby = 20)
+INFO: This should be covered by other voxel (nearby = 36)
+INFO: This should be covered by other voxel (nearby = 68)
+INFO: This should be covered by other voxel (nearby = 192)
+INFO: This should be covered by other voxel (nearby = 68)
+INFO: This should be covered by other voxel (nearby = 192)
+INFO: This should be covered by other voxel (nearby = 192)
+INFO: This should be covered by other voxel (nearby = 1028)
+INFO: This should be covered by other voxel (nearby = 8196)
+INFO: This should be covered by other voxel (nearby = 8196)
+INFO: This should be covered by other voxel (nearby = 8196)
+INFO: This should be covered by other voxel (nearby = 8196)
+INFO: Xout[108] has 5 components ... connecting
+INFO: Xout[109] accepted clean as generated
+INFO: Xout[110] has 3 components ... connecting
+INFO: This should be covered by other voxel (nearby = 12)
+INFO: Xout[111] has 5 components ... connecting
+INFO: This should be covered by other voxel (nearby = 6)
+INFO: This should be covered by other voxel (nearby = 6)
+INFO: This should be covered by other voxel (nearby = 10)
+INFO: This should be covered by other voxel (nearby = 10)
+INFO: Xout[112] accepted clean as generated
+INFO: Xout[113] has 2 components ... connecting
+INFO: Xout[114] has 4 components ... connecting
+INFO: This should be covered by other voxel (nearby = 24)
+INFO: This should be covered by other voxel (nearby = 6)
+INFO: This should be covered by other voxel (nearby = 24)
+INFO: This should be covered by other voxel (nearby = 6)
+INFO: This should be covered by other voxel (nearby = 6)
+INFO: Xout[115] has 8 components ... connecting
+INFO: This should be covered by other voxel (nearby = 6)
+INFO: This should be covered by other voxel (nearby = 6)
+INFO: This should be covered by other voxel (nearby = 6)
+INFO: This should be covered by other voxel (nearby = 66)
+INFO: Xout[116] accepted clean as generated
+INFO: Xout[117] has 3 components ... connecting
+INFO: Xout[118] has 10 components ... connecting
+INFO: This should be covered by other voxel (nearby = 66)
+INFO: This should be covered by other voxel (nearby = 66)
+INFO: Xout[119] has 6 components ... connecting
+INFO: This should be covered by other voxel (nearby = 6)
+INFO: Xout[120] has 4 components ... connecting
+INFO: Xout[121] has 7 components ... connecting
+INFO: This should be covered by other voxel (nearby = 20)
+INFO: This should be covered by other voxel (nearby = 20)
+INFO: This should be covered by other voxel (nearby = 20)
+INFO: This should be covered by other voxel (nearby = 20)
+INFO: This should be covered by other voxel (nearby = 20)
+INFO: Xout[122] has 17 components ... connecting
+INFO: This should be covered by other voxel (nearby = 384)
+INFO: This should be covered by other voxel (nearby = 768)
+INFO: This should be covered by other voxel (nearby = 8194)
+INFO: This should be covered by other voxel (nearby = 24576)
+INFO: This should be covered by other voxel (nearby = 24576)
+INFO: This should be covered by other voxel (nearby = 49152)
+INFO: This should be covered by other voxel (nearby = 384)
+INFO: This should be covered by other voxel (nearby = 768)
+INFO: This should be covered by other voxel (nearby = 384)
+INFO: This should be covered by other voxel (nearby = 768)
+INFO: This should be covered by other voxel (nearby = 131076)
+INFO: This should be covered by other voxel (nearby = 131076)
+INFO: This should be covered by other voxel (nearby = 131076)
+INFO: This should be covered by other voxel (nearby = 8194)
+INFO: This should be covered by other voxel (nearby = 49152)
+INFO: This should be covered by other voxel (nearby = 384)
+INFO: This should be covered by other voxel (nearby = 768)
+INFO: This should be covered by other voxel (nearby = 8194)
+INFO: This should be covered by other voxel (nearby = 24576)
+INFO: This should be covered by other voxel (nearby = 24576)
+INFO: This should be covered by other voxel (nearby = 49152)
+INFO: Xout[123] has 8 components ... connecting
+INFO: This should be covered by other voxel (nearby = 18)
+INFO: This should be covered by other voxel (nearby = 18)
+INFO: Xout[124] has 3 components ... connecting
+INFO: This should be covered by other voxel (nearby = 10)
+INFO: This should be covered by other voxel (nearby = 10)
+INFO: This should be covered by other voxel (nearby = 10)
+INFO: Xout[125] has 3 components ... connecting
+INFO: Xout[126] has 3 components ... connecting
+INFO: Xout[127] has 2 components ... connecting
+INFO: Xout[128] has 2 components ... connecting
+INFO: Xout[129] accepted clean as generated
+INFO: Xout[130] has 4 components ... connecting
+INFO: This should be covered by other voxel (nearby = 10)
+INFO: Xout[131] accepted clean as generated
+INFO: Xout[132] has 2 components ... connecting
+INFO: Xout[133] has 2 components ... connecting
+INFO: Xout[134] has 3 components ... connecting
+INFO: Xout[135] has 2 components ... connecting
+INFO: This should be covered by other voxel (nearby = 6)
+INFO: Xout[136] accepted clean as generated
+INFO: Xout[137] has 15 components ... connecting
+INFO: This should be covered by other voxel (nearby = 24)
+INFO: This should be covered by other voxel (nearby = 34)
+INFO: This should be covered by other voxel (nearby = 514)
+INFO: This should be covered by other voxel (nearby = 514)
+INFO: This should be covered by other voxel (nearby = 640)
+INFO: This should be covered by other voxel (nearby = 640)
+INFO: This should be covered by other voxel (nearby = 1536)
+INFO: This should be covered by other voxel (nearby = 1536)
+INFO: This should be covered by other voxel (nearby = 4352)
+INFO: This should be covered by other voxel (nearby = 24576)
+INFO: This should be covered by other voxel (nearby = 24)
+INFO: This should be covered by other voxel (nearby = 34)
+INFO: This should be covered by other voxel (nearby = 640)
+INFO: This should be covered by other voxel (nearby = 1536)
+INFO: This should be covered by other voxel (nearby = 24576)
+INFO: This should be covered by other voxel (nearby = 24576)
+INFO: This should be covered by other voxel (nearby = 24)
+INFO: This should be covered by other voxel (nearby = 34)
+INFO: This should be covered by other voxel (nearby = 514)
+INFO: This should be covered by other voxel (nearby = 514)
+INFO: This should be covered by other voxel (nearby = 640)
+INFO: This should be covered by other voxel (nearby = 640)
+INFO: This should be covered by other voxel (nearby = 1536)
+INFO: This should be covered by other voxel (nearby = 1536)
+INFO: This should be covered by other voxel (nearby = 4352)
+INFO: This should be covered by other voxel (nearby = 24576)
+INFO: Xout[138] accepted clean as generated
+INFO: Xout[139] has 15 components ... connecting
+INFO: This should be covered by other voxel (nearby = 6)
+INFO: This should be covered by other voxel (nearby = 6)
+INFO: This should be covered by other voxel (nearby = 6)
+INFO: This should be covered by other voxel (nearby = 1040)
+INFO: This should be covered by other voxel (nearby = 16400)
+INFO: This should be covered by other voxel (nearby = 6)
+INFO: This should be covered by other voxel (nearby = 1040)
+INFO: This should be covered by other voxel (nearby = 16400)
+INFO: This should be covered by other voxel (nearby = 32832)
+INFO: This should be covered by other voxel (nearby = 32896)
+INFO: This should be covered by other voxel (nearby = 1040)
+INFO: This should be covered by other voxel (nearby = 16400)
+INFO: This should be covered by other voxel (nearby = 80)
+INFO: This should be covered by other voxel (nearby = 32832)
+INFO: This should be covered by other voxel (nearby = 32896)
+INFO: Xout[140] accepted clean as generated
+INFO: Xout[141] has 6 components ... connecting
+INFO: This should be covered by other voxel (nearby = 6)
+INFO: This should be covered by other voxel (nearby = 20)
+INFO: This should be covered by other voxel (nearby = 36)
+INFO: This should be covered by other voxel (nearby = 36)
+INFO: This should be covered by other voxel (nearby = 20)
+INFO: This should be covered by other voxel (nearby = 6)
+INFO: This should be covered by other voxel (nearby = 68)
+INFO: This should be covered by other voxel (nearby = 20)
+INFO: This should be covered by other voxel (nearby = 36)
+INFO: This should be covered by other voxel (nearby = 36)
+INFO: This should be covered by other voxel (nearby = 68)
+INFO: Xout[142] has 2 components ... connecting
+INFO: This should be covered by other voxel (nearby = 6)
+INFO: Xout[143] has 3 components ... connecting
+INFO: Xout[144] has 2 components ... connecting
+INFO: Xout[145] has 2 components ... connecting
+INFO: Xout[146] accepted clean as generated
+INFO: Xout[147] accepted clean as generated
+INFO: Xout[148] accepted clean as generated
+INFO: Xout[149] accepted clean as generated
+INFO: Xout[150] has 3 components ... connecting
+INFO: This should be covered by other voxel (nearby = 6)
+INFO: This should be covered by other voxel (nearby = 6)
+INFO: This should be covered by other voxel (nearby = 10)
+INFO: Xout[151] accepted clean as generated
+INFO: Xout[152] has 4 components ... connecting
+INFO: Xout[153] has 5 components ... connecting
+INFO: This should be covered by other voxel (nearby = 6)
+INFO: This should be covered by other voxel (nearby = 6)
+INFO: This should be covered by other voxel (nearby = 6)
+INFO: Xout[154] has 24 components ... connecting
+INFO: This should be covered by other voxel (nearby = 12)
+INFO: This should be covered by other voxel (nearby = 18)
+INFO: This should be covered by other voxel (nearby = 18)
+INFO: This should be covered by other voxel (nearby = 12)
+INFO: This should be covered by other voxel (nearby = 12)
+INFO: This should be covered by other voxel (nearby = 18)
+INFO: This should be covered by other voxel (nearby = 12)
+INFO: This should be covered by other voxel (nearby = 18)
+INFO: This should be covered by other voxel (nearby = 18)
+INFO: This should be covered by other voxel (nearby = 768)
+INFO: This should be covered by other voxel (nearby = 514)
+INFO: This should be covered by other voxel (nearby = 768)
+INFO: This should be covered by other voxel (nearby = 514)
+INFO: This should be covered by other voxel (nearby = 514)
+INFO: This should be covered by other voxel (nearby = 2050)
+INFO: This should be covered by other voxel (nearby = 768)
+INFO: This should be covered by other voxel (nearby = 514)
+INFO: This should be covered by other voxel (nearby = 16386)
+INFO: This should be covered by other voxel (nearby = 524290)
+INFO: This should be covered by other voxel (nearby = 524290)
+INFO: This should be covered by other voxel (nearby = 1048578)
+INFO: This should be covered by other voxel (nearby = 393216)
+INFO: This should be covered by other voxel (nearby = 768)
+INFO: This should be covered by other voxel (nearby = 514)
+INFO: This should be covered by other voxel (nearby = 768)
+INFO: This should be covered by other voxel (nearby = 514)
+INFO: This should be covered by other voxel (nearby = 393216)
+INFO: This should be covered by other voxel (nearby = 393216)
+INFO: This should be covered by other voxel (nearby = 16386)
+INFO: This should be covered by other voxel (nearby = 524290)
+INFO: This should be covered by other voxel (nearby = 524290)
+INFO: This should be covered by other voxel (nearby = 1048578)
+INFO: This should be covered by other voxel (nearby = 393216)
+INFO: This should be covered by other voxel (nearby = 16777218)
+INFO: This should be covered by other voxel (nearby = 16777218)
+INFO: Xout[155] has 6 components ... connecting
+INFO: Xout[156] has 2 components ... connecting
+INFO: Xout[157] has 2 components ... connecting
+INFO: Xout[158] has 6 components ... connecting
+INFO: This should be covered by other voxel (nearby = 12)
+INFO: This should be covered by other voxel (nearby = 12)
+INFO: Xout[159] has 2 components ... connecting
+INFO: Xout[160] has 4 components ... connecting
+INFO: This should be covered by other voxel (nearby = 6)
+INFO: Xout[161] has 2 components ... connecting
+INFO: Xout[162] has 2 components ... connecting
+INFO: Xout[163] has 8 components ... connecting
+INFO: This should be covered by other voxel (nearby = 12)
+INFO: This should be covered by other voxel (nearby = 12)
+INFO: This should be covered by other voxel (nearby = 12)
+INFO: This should be covered by other voxel (nearby = 96)
+INFO: Xout[164] accepted clean as generated
+INFO: Xout[165] has 2 components ... connecting
+INFO: This should be covered by other voxel (nearby = 6)
+INFO: Xout[166] has 6 components ... connecting
+INFO: This should be covered by other voxel (nearby = 20)
+INFO: This should be covered by other voxel (nearby = 20)
+INFO: Xout[167] accepted clean as generated
+INFO: Xout[168] has 5 components ... connecting
+INFO: Xout[169] has 4 components ... connecting
+INFO: This should be covered by other voxel (nearby = 6)
+INFO: This should be covered by other voxel (nearby = 6)
+INFO: This should be covered by other voxel (nearby = 6)
+INFO: This should be covered by other voxel (nearby = 6)
+INFO: This should be covered by other voxel (nearby = 6)
+INFO: Xout[170] accepted clean as generated
+INFO: Xout[171] has 6 components ... connecting
+INFO: This should be covered by other voxel (nearby = 24)
+INFO: This should be covered by other voxel (nearby = 24)
+INFO: This should be covered by other voxel (nearby = 24)
+INFO: This should be covered by other voxel (nearby = 24)
+INFO: Xout[172] has 3 components ... connecting
+INFO: This should be covered by other voxel (nearby = 10)
+INFO: Xout[173] accepted clean as generated
+INFO: Xout[174] has 6 components ... connecting
+INFO: This should be covered by other voxel (nearby = 24)
+INFO: This should be covered by other voxel (nearby = 48)
+INFO: This should be covered by other voxel (nearby = 18)
+INFO: This should be covered by other voxel (nearby = 18)
+INFO: This should be covered by other voxel (nearby = 24)
+INFO: This should be covered by other voxel (nearby = 34)
+INFO: This should be covered by other voxel (nearby = 24)
+INFO: This should be covered by other voxel (nearby = 48)
+INFO: This should be covered by other voxel (nearby = 34)
+INFO: This should be covered by other voxel (nearby = 18)
+INFO: This should be covered by other voxel (nearby = 18)
+INFO: This should be covered by other voxel (nearby = 66)
+INFO: Xout[175] accepted clean as generated
+INFO: Xout[176] accepted clean as generated
+INFO: Xout[177] has 2 components ... connecting
+INFO: Xout[178] has 5 components ... connecting
+INFO: Xout[179] has 3 components ... connecting
+INFO: This should be covered by other voxel (nearby = 12)
+INFO: This should be covered by other voxel (nearby = 12)
+INFO: This should be covered by other voxel (nearby = 12)
+INFO: This should be covered by other voxel (nearby = 12)
+INFO: Xout[180] has 5 components ... connecting
+INFO: This should be covered by other voxel (nearby = 48)
+INFO: This should be covered by other voxel (nearby = 48)
+INFO: This should be covered by other voxel (nearby = 48)
+INFO: This should be covered by other voxel (nearby = 48)
+INFO: Xout[181] accepted clean as generated
+INFO: Xout[182] has 4 components ... connecting
+INFO: Xout[183] has 3 components ... connecting
+INFO: Xout[184] has 4 components ... connecting
+INFO: This should be covered by other voxel (nearby = 20)
+INFO: This should be covered by other voxel (nearby = 20)
+INFO: This should be covered by other voxel (nearby = 20)
+INFO: Xout[185] has 2 components ... connecting
+INFO: Xout[186] has 5 components ... connecting
+INFO: This should be covered by other voxel (nearby = 10)
+INFO: This should be covered by other voxel (nearby = 10)
+INFO: This should be covered by other voxel (nearby = 10)
+INFO: This should be covered by other voxel (nearby = 18)
+INFO: Xout[187] has 5 components ... connecting
+INFO: Xout[188] has 2 components ... connecting
+INFO: Xout[189] accepted clean as generated
+INFO: Xout[190] has 4 components ... connecting
+INFO: This should be covered by other voxel (nearby = 6)
+INFO: This should be covered by other voxel (nearby = 6)
+INFO: Xout[191] has 4 components ... connecting
+INFO: This should be covered by other voxel (nearby = 12)
+INFO: This should be covered by other voxel (nearby = 12)
+INFO: This should be covered by other voxel (nearby = 12)
+INFO: Xout[192] has 3 components ... connecting
+INFO: Xout[193] has 8 components ... connecting
+INFO: This should be covered by other voxel (nearby = 96)
+INFO: This should be covered by other voxel (nearby = 36)
+INFO: This should be covered by other voxel (nearby = 96)
+INFO: This should be covered by other voxel (nearby = 36)
+INFO: This should be covered by other voxel (nearby = 20)
+INFO: This should be covered by other voxel (nearby = 260)
+INFO: This should be covered by other voxel (nearby = 96)
+INFO: This should be covered by other voxel (nearby = 260)
+INFO: This should be covered by other voxel (nearby = 260)
+INFO: Xout[194] has 3 components ... connecting
+INFO: Xout[195] accepted clean as generated
+INFO: Xout[196] accepted clean as generated
+INFO: Xout[197] has 3 components ... connecting
+INFO: Xout[198] has 8 components ... connecting
+INFO: This should be covered by other voxel (nearby = 12)
+INFO: This should be covered by other voxel (nearby = 12)
+INFO: This should be covered by other voxel (nearby = 12)
+INFO: This should be covered by other voxel (nearby = 12)
+INFO: Xout[199] has 8 components ... connecting
+INFO: This should be covered by other voxel (nearby = 34)
+INFO: This should be covered by other voxel (nearby = 66)
+INFO: This should be covered by other voxel (nearby = 66)
+INFO: This should be covered by other voxel (nearby = 34)
+INFO: This should be covered by other voxel (nearby = 34)
+INFO: This should be covered by other voxel (nearby = 66)
+INFO: This should be covered by other voxel (nearby = 34)
+INFO: This should be covered by other voxel (nearby = 66)
+INFO: This should be covered by other voxel (nearby = 66)
+INFO: Xout[200] has 7 components ... connecting
+INFO: This should be covered by other voxel (nearby = 24)
+INFO: This should be covered by other voxel (nearby = 18)
+INFO: This should be covered by other voxel (nearby = 192)
+INFO: This should be covered by other voxel (nearby = 24)
+INFO: This should be covered by other voxel (nearby = 192)
+INFO: This should be covered by other voxel (nearby = 192)
+INFO: This should be covered by other voxel (nearby = 24)
+INFO: This should be covered by other voxel (nearby = 192)
+INFO: Xout[201] has 5 components ... connecting
+INFO: This should be covered by other voxel (nearby = 10)
+INFO: This should be covered by other voxel (nearby = 48)
+INFO: This should be covered by other voxel (nearby = 48)
+INFO: This should be covered by other voxel (nearby = 48)
+INFO: This should be covered by other voxel (nearby = 10)
+INFO: This should be covered by other voxel (nearby = 48)
+INFO: Xout[202] has 3 components ... connecting
+INFO: Xout[203] has 7 components ... connecting
+INFO: This should be covered by other voxel (nearby = 12)
+INFO: This should be covered by other voxel (nearby = 12)
+INFO: This should be covered by other voxel (nearby = 68)
+INFO: This should be covered by other voxel (nearby = 68)
+INFO: This should be covered by other voxel (nearby = 68)
+INFO: Xout[204] accepted clean as generated
+INFO: Xout[205] accepted clean as generated
+INFO: Xout[206] has 3 components ... connecting
+INFO: Xout[207] has 2 components ... connecting
+INFO: Xout[208] has 3 components ... connecting
+INFO: Xout[209] accepted clean as generated
+INFO: Xout[210] has 5 components ... connecting
+INFO: Xout[211] has 2 components ... connecting
+INFO: Xout[212] has 6 components ... connecting
+INFO: This should be covered by other voxel (nearby = 12)
+INFO: This should be covered by other voxel (nearby = 12)
+INFO: This should be covered by other voxel (nearby = 72)
+INFO: Xout[213] has 3 components ... connecting
+INFO: Xout[214] has 13 components ... connecting
+INFO: This should be covered by other voxel (nearby = 3072)
+INFO: This should be covered by other voxel (nearby = 3072)
+INFO: This should be covered by other voxel (nearby = 3072)
+INFO: This should be covered by other voxel (nearby = 3072)
+INFO: This should be covered by other voxel (nearby = 3072)
+INFO: This should be covered by other voxel (nearby = 3072)
+INFO: Xout[215] has 2 components ... connecting
+INFO: Xout[216] has 29 components ... connecting
+INFO: This should be covered by other voxel (nearby = 12)
+INFO: This should be covered by other voxel (nearby = 68)
+INFO: This should be covered by other voxel (nearby = 768)
+INFO: This should be covered by other voxel (nearby = 640)
+INFO: This should be covered by other voxel (nearby = 132)
+INFO: This should be covered by other voxel (nearby = 2052)
+INFO: This should be covered by other voxel (nearby = 1572864)
+INFO: This should be covered by other voxel (nearby = 17825792)
+INFO: This should be covered by other voxel (nearby = 100663296)
+INFO: This should be covered by other voxel (nearby = 12582912)
+INFO: This should be covered by other voxel (nearby = 68)
+INFO: This should be covered by other voxel (nearby = 768)
+INFO: This should be covered by other voxel (nearby = 640)
+INFO: This should be covered by other voxel (nearby = 640)
+INFO: This should be covered by other voxel (nearby = 1572864)
+INFO: This should be covered by other voxel (nearby = 100663296)
+INFO: This should be covered by other voxel (nearby = 17825792)
+INFO: This should be covered by other voxel (nearby = 100663296)
+INFO: This should be covered by other voxel (nearby = 12582912)
+INFO: This should be covered by other voxel (nearby = 68)
+INFO: This should be covered by other voxel (nearby = 768)
+INFO: This should be covered by other voxel (nearby = 1572864)
+INFO: This should be covered by other voxel (nearby = 17825792)
+INFO: This should be covered by other voxel (nearby = 100663296)
+INFO: This should be covered by other voxel (nearby = 12582912)
+INFO: Xout[217] accepted clean as generated
+INFO: Xout[218] has 3 components ... connecting
+INFO: Xout[219] accepted clean as generated
+INFO: Xout[220] has 2 components ... connecting
+INFO: Xout[221] has 2 components ... connecting
+INFO: Xout[222] has 4 components ... connecting
+INFO: Xout[223] has 2 components ... connecting
+INFO: Xout[224] accepted clean as generated
+INFO: Xout[225] accepted clean as generated
+INFO: Xout[226] has 3 components ... connecting
+INFO: Xout[227] accepted clean as generated
+INFO: Xout[228] has 6 components ... connecting
+INFO: This should be covered by other voxel (nearby = 48)
+INFO: This should be covered by other voxel (nearby = 48)
+INFO: Xout[229] has 2 components ... connecting
+INFO: Xout[230] has 3 components ... connecting
+INFO: This should be covered by other voxel (nearby = 10)
+INFO: This should be covered by other voxel (nearby = 10)
+INFO: This should be covered by other voxel (nearby = 10)
+INFO: Xout[231] has 5 components ... connecting
+INFO: This should be covered by other voxel (nearby = 6)
+INFO: Xout[232] has 7 components ... connecting
+INFO: This should be covered by other voxel (nearby = 12)
+INFO: This should be covered by other voxel (nearby = 12)
+INFO: This should be covered by other voxel (nearby = 12)
+INFO: This should be covered by other voxel (nearby = 66)
+INFO: Xout[233] has 28 components ... connecting
+INFO: This should be covered by other voxel (nearby = 6)
+INFO: This should be covered by other voxel (nearby = 66560)
+INFO: This should be covered by other voxel (nearby = 6)
+INFO: This should be covered by other voxel (nearby = 16392)
+INFO: This should be covered by other voxel (nearby = 49152)
+INFO: This should be covered by other voxel (nearby = 6)
+INFO: This should be covered by other voxel (nearby = 131080)
+INFO: This should be covered by other voxel (nearby = 262152)
+INFO: This should be covered by other voxel (nearby = 16392)
+INFO: This should be covered by other voxel (nearby = 1048584)
+INFO: This should be covered by other voxel (nearby = 67108872)
+INFO: This should be covered by other voxel (nearby = 66560)
+INFO: This should be covered by other voxel (nearby = 66560)
+INFO: This should be covered by other voxel (nearby = 6)
+INFO: This should be covered by other voxel (nearby = 49152)
+INFO: This should be covered by other voxel (nearby = 131080)
+INFO: This should be covered by other voxel (nearby = 262152)
+INFO: This should be covered by other voxel (nearby = 4194312)
+INFO: This should be covered by other voxel (nearby = 40)
+INFO: This should be covered by other voxel (nearby = 67108872)
+INFO: This should be covered by other voxel (nearby = 66560)
+INFO: This should be covered by other voxel (nearby = 16392)
+INFO: This should be covered by other voxel (nearby = 49152)
+INFO: This should be covered by other voxel (nearby = 131080)
+INFO: This should be covered by other voxel (nearby = 262152)
+INFO: This should be covered by other voxel (nearby = 16392)
+INFO: This should be covered by other voxel (nearby = 1048584)
+INFO: This should be covered by other voxel (nearby = 4194312)
+INFO: This should be covered by other voxel (nearby = 4194312)
+INFO: This should be covered by other voxel (nearby = 40)
+INFO: This should be covered by other voxel (nearby = 67108872)
+INFO: Xout[234] has 4 components ... connecting
+INFO: This should be covered by other voxel (nearby = 10)
+INFO: Xout[235] has 2 components ... connecting
+INFO: Xout[236] has 5 components ... connecting
+INFO: Xout[237] has 7 components ... connecting
+INFO: Xout[238] has 4 components ... connecting
+INFO: Xout[239] accepted clean as generated
+INFO: Xout[240] has 4 components ... connecting
+INFO: This should be covered by other voxel (nearby = 18)
+INFO: This should be covered by other voxel (nearby = 18)
+INFO: This should be covered by other voxel (nearby = 18)
+INFO: Xout[241] has 2 components ... connecting
+INFO: This should be covered by other voxel (nearby = 6)
+INFO: This should be covered by other voxel (nearby = 6)
+INFO: Xout[242] has 8 components ... connecting
+INFO: This should be covered by other voxel (nearby = 6)
+INFO: This should be covered by other voxel (nearby = 6)
+INFO: Xout[243] has 2 components ... connecting
+INFO: Xout[244] has 9 components ... connecting
+INFO: Xout[245] has 11 components ... connecting
+INFO: This should be covered by other voxel (nearby = 18)
+INFO: This should be covered by other voxel (nearby = 130)
+INFO: This should be covered by other voxel (nearby = 18)
+INFO: This should be covered by other voxel (nearby = 18)
+INFO: This should be covered by other voxel (nearby = 18)
+INFO: This should be covered by other voxel (nearby = 130)
+INFO: Xout[246] has 14 components ... connecting
+INFO: This should be covered by other voxel (nearby = 48)
+INFO: This should be covered by other voxel (nearby = 768)
+INFO: This should be covered by other voxel (nearby = 48)
+INFO: This should be covered by other voxel (nearby = 768)
+INFO: This should be covered by other voxel (nearby = 48)
+INFO: This should be covered by other voxel (nearby = 16512)
+INFO: This should be covered by other voxel (nearby = 768)
+INFO: This should be covered by other voxel (nearby = 16512)
+INFO: Xout[247] has 13 components ... connecting
+INFO: This should be covered by other voxel (nearby = 6)
+INFO: This should be covered by other voxel (nearby = 12)
+INFO: This should be covered by other voxel (nearby = 12)
+INFO: This should be covered by other voxel (nearby = 6)
+INFO: This should be covered by other voxel (nearby = 12)
+INFO: This should be covered by other voxel (nearby = 576)
+INFO: This should be covered by other voxel (nearby = 576)
+INFO: Xout[248] accepted clean as generated
+INFO: Xout[249] accepted clean as generated
+INFO: Xout[250] has 2 components ... connecting
+INFO: This should be covered by other voxel (nearby = 6)
+INFO: This should be covered by other voxel (nearby = 6)
+INFO: This should be covered by other voxel (nearby = 6)
+INFO: Xout[251] has 2 components ... connecting
+INFO: Xout[252] accepted clean as generated
+INFO: Xout[253] accepted clean as generated
+INFO: Xout[254] accepted clean as generated
+INFO: Xout[255] has 5 components ... connecting
+INFO: This should be covered by other voxel (nearby = 34)
+INFO: Xout[256] has 4 components ... connecting
+INFO: This should be covered by other voxel (nearby = 10)
+INFO: Xout[257] has 3 components ... connecting
+INFO: Xout[258] accepted clean as generated
+INFO: Xout[259] has 2 components ... connecting
+INFO: Xout[260] has 7 components ... connecting
+INFO: This should be covered by other voxel (nearby = 12)
+INFO: This should be covered by other voxel (nearby = 144)
+INFO: This should be covered by other voxel (nearby = 12)
+INFO: This should be covered by other voxel (nearby = 144)
+INFO: This should be covered by other voxel (nearby = 144)
+INFO: This should be covered by other voxel (nearby = 144)
+INFO: Xout[261] has 10 components ... connecting
+INFO: This should be covered by other voxel (nearby = 272)
+INFO: This should be covered by other voxel (nearby = 272)
+INFO: Xout[262] has 3 components ... connecting
+INFO: Xout[263] accepted clean as generated
+INFO: Xout[264] accepted clean as generated
+INFO: Xout[265] has 9 components ... connecting
+INFO: This should be covered by other voxel (nearby = 12)
+INFO: This should be covered by other voxel (nearby = 20)
+INFO: This should be covered by other voxel (nearby = 40)
+INFO: This should be covered by other voxel (nearby = 20)
+INFO: This should be covered by other voxel (nearby = 40)
+INFO: This should be covered by other voxel (nearby = 40)
+INFO: This should be covered by other voxel (nearby = 20)
+INFO: This should be covered by other voxel (nearby = 20)
+INFO: This should be covered by other voxel (nearby = 40)
+INFO: This should be covered by other voxel (nearby = 20)
+INFO: This should be covered by other voxel (nearby = 516)
+INFO: Xout[266] accepted clean as generated
+INFO: Xout[267] has 3 components ... connecting
+INFO: Xout[268] accepted clean as generated
+INFO: Xout[269] has 2 components ... connecting
+INFO: Xout[270] accepted clean as generated
+INFO: Xout[271] accepted clean as generated
+INFO: Xout[272] has 2 components ... connecting
+INFO: This should be covered by other voxel (nearby = 6)
+INFO: This should be covered by other voxel (nearby = 6)
+INFO: This should be covered by other voxel (nearby = 6)
+INFO: This should be covered by other voxel (nearby = 6)
+INFO: This should be covered by other voxel (nearby = 6)
+INFO: Xout[273] has 15 components ... connecting
+INFO: This should be covered by other voxel (nearby = 6)
+INFO: This should be covered by other voxel (nearby = 24)
+INFO: This should be covered by other voxel (nearby = 6)
+INFO: This should be covered by other voxel (nearby = 384)
+INFO: This should be covered by other voxel (nearby = 192)
+INFO: This should be covered by other voxel (nearby = 384)
+INFO: This should be covered by other voxel (nearby = 32770)
+INFO: This should be covered by other voxel (nearby = 24)
+INFO: This should be covered by other voxel (nearby = 24)
+INFO: This should be covered by other voxel (nearby = 384)
+INFO: This should be covered by other voxel (nearby = 6)
+INFO: This should be covered by other voxel (nearby = 32770)
+INFO: This should be covered by other voxel (nearby = 32770)
+INFO: This should be covered by other voxel (nearby = 24)
+INFO: This should be covered by other voxel (nearby = 384)
+INFO: This should be covered by other voxel (nearby = 192)
+INFO: This should be covered by other voxel (nearby = 384)
+INFO: This should be covered by other voxel (nearby = 32770)
+INFO: Xout[274] accepted clean as generated
+INFO: Xout[275] has 3 components ... connecting
+INFO: Xout[276] has 6 components ... connecting
+INFO: Xout[277] has 4 components ... connecting
+INFO: This should be covered by other voxel (nearby = 20)
+INFO: Xout[278] has 23 components ... connecting
+INFO: This should be covered by other voxel (nearby = 12)
+INFO: This should be covered by other voxel (nearby = 48)
+INFO: This should be covered by other voxel (nearby = 132)
+INFO: This should be covered by other voxel (nearby = 132)
+INFO: This should be covered by other voxel (nearby = 8196)
+INFO: This should be covered by other voxel (nearby = 8196)
+INFO: This should be covered by other voxel (nearby = 1048580)
+INFO: This should be covered by other voxel (nearby = 1048580)
+INFO: This should be covered by other voxel (nearby = 12)
+INFO: This should be covered by other voxel (nearby = 48)
+INFO: This should be covered by other voxel (nearby = 132)
+INFO: This should be covered by other voxel (nearby = 8196)
+INFO: This should be covered by other voxel (nearby = 12)
+INFO: This should be covered by other voxel (nearby = 132)
+INFO: This should be covered by other voxel (nearby = 8196)
+INFO: This should be covered by other voxel (nearby = 1048580)
+INFO: This should be covered by other voxel (nearby = 1048580)
+INFO: This should be covered by other voxel (nearby = 48)
+INFO: This should be covered by other voxel (nearby = 8388612)
+INFO: Xout[279] has 8 components ... connecting
+INFO: This should be covered by other voxel (nearby = 12)
+INFO: This should be covered by other voxel (nearby = 6)
+INFO: This should be covered by other voxel (nearby = 12)
+INFO: This should be covered by other voxel (nearby = 12)
+INFO: This should be covered by other voxel (nearby = 6)
+INFO: This should be covered by other voxel (nearby = 130)
+INFO: Xout[280] accepted clean as generated
+INFO: Xout[281] has 8 components ... connecting
+INFO: This should be covered by other voxel (nearby = 72)
+INFO: This should be covered by other voxel (nearby = 72)
+INFO: Xout[282] has 4 components ... connecting
+INFO: Xout[283] has 2 components ... connecting
+INFO: Xout[284] has 4 components ... connecting
+INFO: Xout[285] has 4 components ... connecting
+INFO: This should be covered by other voxel (nearby = 6)
+INFO: This should be covered by other voxel (nearby = 6)
+INFO: This should be covered by other voxel (nearby = 10)
+INFO: This should be covered by other voxel (nearby = 18)
+INFO: This should be covered by other voxel (nearby = 10)
+INFO: This should be covered by other voxel (nearby = 18)
+INFO: This should be covered by other voxel (nearby = 18)
+INFO: Xout[286] has 3 components ... connecting
+INFO: Xout[287] has 6 components ... connecting
+INFO: Xout[288] has 8 components ... connecting
+INFO: This should be covered by other voxel (nearby = 260)
+INFO: This should be covered by other voxel (nearby = 260)
+INFO: Xout[289] accepted clean as generated
+INFO: Xout[290] accepted clean as generated
+INFO: Xout[291] has 7 components ... connecting
+INFO: This should be covered by other voxel (nearby = 20)
+INFO: This should be covered by other voxel (nearby = 20)
+INFO: This should be covered by other voxel (nearby = 20)
+INFO: This should be covered by other voxel (nearby = 20)
+INFO: This should be covered by other voxel (nearby = 34)
+INFO: Xout[292] has 8 components ... connecting
+INFO: This should be covered by other voxel (nearby = 18)
+INFO: Xout[293] has 3 components ... connecting
+INFO: This should be covered by other voxel (nearby = 6)
+INFO: This should be covered by other voxel (nearby = 6)
+INFO: Xout[294] has 3 components ... connecting
+INFO: Xout[295] has 8 components ... connecting
+INFO: This should be covered by other voxel (nearby = 24)
+INFO: This should be covered by other voxel (nearby = 18)
+INFO: This should be covered by other voxel (nearby = 34)
+INFO: This should be covered by other voxel (nearby = 96)
+INFO: This should be covered by other voxel (nearby = 96)
+INFO: This should be covered by other voxel (nearby = 24)
+INFO: This should be covered by other voxel (nearby = 18)
+INFO: This should be covered by other voxel (nearby = 34)
+INFO: This should be covered by other voxel (nearby = 96)
+INFO: This should be covered by other voxel (nearby = 24)
+INFO: This should be covered by other voxel (nearby = 18)
+INFO: This should be covered by other voxel (nearby = 34)
+INFO: This should be covered by other voxel (nearby = 96)
+INFO: This should be covered by other voxel (nearby = 96)
+INFO: Xout[296] accepted clean as generated
+INFO: Xout[297] has 2 components ... connecting
+INFO: This should be covered by other voxel (nearby = 6)
+INFO: This should be covered by other voxel (nearby = 6)
+INFO: Xout[298] has 3 components ... connecting
+INFO: This should be covered by other voxel (nearby = 6)
+INFO: This should be covered by other voxel (nearby = 10)
+INFO: This should be covered by other voxel (nearby = 6)
+INFO: This should be covered by other voxel (nearby = 6)
+INFO: This should be covered by other voxel (nearby = 10)
+INFO: This should be covered by other voxel (nearby = 6)
+INFO: This should be covered by other voxel (nearby = 10)
+INFO: Xout[299] has 3 components ... connecting
+INFO: Xout[300] has 2 components ... connecting
+INFO: Xout[301] accepted clean as generated
+INFO: Xout[302] has 3 components ... connecting
+INFO: Xout[303] has 2 components ... connecting
+INFO: Xout[304] has 6 components ... connecting
+INFO: Xout[305] has 9 components ... connecting
+INFO: This should be covered by other voxel (nearby = 12)
+INFO: This should be covered by other voxel (nearby = 96)
+INFO: This should be covered by other voxel (nearby = 68)
+INFO: This should be covered by other voxel (nearby = 96)
+INFO: This should be covered by other voxel (nearby = 68)
+INFO: This should be covered by other voxel (nearby = 96)
+INFO: This should be covered by other voxel (nearby = 68)
+INFO: Xout[306] has 2 components ... connecting
+INFO: Xout[307] has 3 components ... connecting
+INFO: This should be covered by other voxel (nearby = 6)
+INFO: This should be covered by other voxel (nearby = 6)
+INFO: Xout[308] has 3 components ... connecting
+INFO: This should be covered by other voxel (nearby = 10)
+INFO: This should be covered by other voxel (nearby = 6)
+INFO: This should be covered by other voxel (nearby = 10)
+INFO: Xout[309] accepted clean as generated
+INFO: Xout[310] accepted clean as generated
+INFO: Xout[311] has 3 components ... connecting
+INFO: Xout[312] has 4 components ... connecting
+INFO: This should be covered by other voxel (nearby = 24)
+INFO: This should be covered by other voxel (nearby = 24)
+INFO: Xout[313] has 3 components ... connecting
+INFO: Xout[314] has 3 components ... connecting
+INFO: Xout[315] has 9 components ... connecting
+INFO: This should be covered by other voxel (nearby = 6)
+INFO: This should be covered by other voxel (nearby = 66)
+INFO: This should be covered by other voxel (nearby = 384)
+INFO: This should be covered by other voxel (nearby = 34)
+INFO: This should be covered by other voxel (nearby = 384)
+INFO: This should be covered by other voxel (nearby = 384)
+INFO: This should be covered by other voxel (nearby = 34)
+INFO: This should be covered by other voxel (nearby = 66)
+INFO: This should be covered by other voxel (nearby = 384)
+INFO: Xout[316] has 2 components ... connecting
+INFO: This should be covered by other voxel (nearby = 6)
+INFO: This should be covered by other voxel (nearby = 6)
+INFO: This should be covered by other voxel (nearby = 6)
+INFO: Xout[317] has 3 components ... connecting
+INFO: Xout[318] has 2 components ... connecting
+INFO: Xout[319] accepted clean as generated
+INFO: Xout[320] has 5 components ... connecting
+INFO: Xout[321] has 2 components ... connecting
+INFO: Xout[322] has 2 components ... connecting
+INFO: Xout[323] accepted clean as generated
+INFO: Xout[324] has 5 components ... connecting
+INFO: This should be covered by other voxel (nearby = 6)
+INFO: This should be covered by other voxel (nearby = 6)
+INFO: This should be covered by other voxel (nearby = 6)
+INFO: Xout[325] has 4 components ... connecting
+INFO: This should be covered by other voxel (nearby = 6)
+INFO: This should be covered by other voxel (nearby = 6)
+INFO: This should be covered by other voxel (nearby = 6)
+INFO: This should be covered by other voxel (nearby = 18)
+INFO: This should be covered by other voxel (nearby = 6)
+INFO: This should be covered by other voxel (nearby = 6)
+INFO: This should be covered by other voxel (nearby = 18)
+INFO: Xout[326] has 4 components ... connecting
+INFO: This should be covered by other voxel (nearby = 6)
+INFO: This should be covered by other voxel (nearby = 6)
+INFO: This should be covered by other voxel (nearby = 18)
+INFO: This should be covered by other voxel (nearby = 18)
+INFO: This should be covered by other voxel (nearby = 18)
+INFO: Xout[327] accepted clean as generated
+INFO: Xout[328] accepted clean as generated
+INFO: Xout[329] accepted clean as generated
+INFO: Xout[330] has 3 components ... connecting
+INFO: Xout[331] has 13 components ... connecting
+INFO: This should be covered by other voxel (nearby = 20)
+INFO: This should be covered by other voxel (nearby = 192)
+INFO: This should be covered by other voxel (nearby = 768)
+INFO: This should be covered by other voxel (nearby = 20)
+INFO: This should be covered by other voxel (nearby = 192)
+INFO: This should be covered by other voxel (nearby = 192)
+INFO: This should be covered by other voxel (nearby = 768)
+INFO: This should be covered by other voxel (nearby = 768)
+INFO: This should be covered by other voxel (nearby = 68)
+INFO: This should be covered by other voxel (nearby = 192)
+INFO: This should be covered by other voxel (nearby = 768)
+INFO: This should be covered by other voxel (nearby = 8704)
+INFO: This should be covered by other voxel (nearby = 768)
+INFO: This should be covered by other voxel (nearby = 8704)
+INFO: This should be covered by other voxel (nearby = 68)
+INFO: This should be covered by other voxel (nearby = 768)
+INFO: This should be covered by other voxel (nearby = 8704)
+INFO: Xout[332] has 15 components ... connecting
+INFO: This should be covered by other voxel (nearby = 10)
+INFO: This should be covered by other voxel (nearby = 6)
+INFO: This should be covered by other voxel (nearby = 10)
+INFO: This should be covered by other voxel (nearby = 6)
+INFO: This should be covered by other voxel (nearby = 6)
+INFO: This should be covered by other voxel (nearby = 18)
+INFO: This should be covered by other voxel (nearby = 18)
+INFO: This should be covered by other voxel (nearby = 18)
+INFO: This should be covered by other voxel (nearby = 768)
+INFO: This should be covered by other voxel (nearby = 1536)
+INFO: This should be covered by other voxel (nearby = 768)
+INFO: This should be covered by other voxel (nearby = 768)
+INFO: This should be covered by other voxel (nearby = 1536)
+INFO: This should be covered by other voxel (nearby = 1026)
+INFO: This should be covered by other voxel (nearby = 768)
+INFO: This should be covered by other voxel (nearby = 1536)
+INFO: This should be covered by other voxel (nearby = 66)
+INFO: This should be covered by other voxel (nearby = 8194)
+INFO: This should be covered by other voxel (nearby = 8194)
+INFO: This should be covered by other voxel (nearby = 16386)
+INFO: This should be covered by other voxel (nearby = 8194)
+INFO: Xout[333] accepted clean as generated
+INFO: Xout[334] has 5 components ... connecting
+INFO: This should be covered by other voxel (nearby = 12)
+INFO: This should be covered by other voxel (nearby = 12)
+INFO: This should be covered by other voxel (nearby = 12)
+INFO: Xout[335] accepted clean as generated
+INFO: Xout[336] has 4 components ... connecting
+INFO: Xout[337] has 2 components ... connecting
+INFO: Xout[338] accepted clean as generated
+INFO: Xout[339] has 20 components ... connecting
+INFO: This should be covered by other voxel (nearby = 2052)
+INFO: This should be covered by other voxel (nearby = 8196)
+INFO: This should be covered by other voxel (nearby = 1028)
+INFO: This should be covered by other voxel (nearby = 16388)
+INFO: This should be covered by other voxel (nearby = 1048580)
+INFO: This should be covered by other voxel (nearby = 2052)
+INFO: This should be covered by other voxel (nearby = 8196)
+INFO: This should be covered by other voxel (nearby = 16388)
+INFO: This should be covered by other voxel (nearby = 12)
+INFO: This should be covered by other voxel (nearby = 1048580)
+INFO: This should be covered by other voxel (nearby = 2052)
+INFO: This should be covered by other voxel (nearby = 8196)
+INFO: This should be covered by other voxel (nearby = 1028)
+INFO: This should be covered by other voxel (nearby = 16388)
+INFO: This should be covered by other voxel (nearby = 12)
+INFO: This should be covered by other voxel (nearby = 1048580)
+INFO: Xout[340] has 7 components ... connecting
+INFO: This should be covered by other voxel (nearby = 10)
+INFO: This should be covered by other voxel (nearby = 10)
+INFO: This should be covered by other voxel (nearby = 10)
+INFO: This should be covered by other voxel (nearby = 10)
+INFO: This should be covered by other voxel (nearby = 10)
+INFO: Xout[341] accepted clean as generated
+INFO: Xout[342] has 3 components ... connecting
+INFO: Xout[343] has 13 components ... connecting
+INFO: This should be covered by other voxel (nearby = 34)
+INFO: This should be covered by other voxel (nearby = 48)
+INFO: This should be covered by other voxel (nearby = 272)
+INFO: This should be covered by other voxel (nearby = 34)
+INFO: This should be covered by other voxel (nearby = 34)
+INFO: This should be covered by other voxel (nearby = 48)
+INFO: Xout[344] has 2 components ... connecting
+INFO: Xout[345] has 6 components ... connecting
+INFO: This should be covered by other voxel (nearby = 6)
+INFO: This should be covered by other voxel (nearby = 6)
+INFO: This should be covered by other voxel (nearby = 40)
+INFO: This should be covered by other voxel (nearby = 6)
+INFO: This should be covered by other voxel (nearby = 40)
+INFO: This should be covered by other voxel (nearby = 72)
+INFO: This should be covered by other voxel (nearby = 72)
+INFO: This should be covered by other voxel (nearby = 72)
+INFO: This should be covered by other voxel (nearby = 72)
+INFO: Xout[346] has 2 components ... connecting
+INFO: This should be covered by other voxel (nearby = 6)
+INFO: Xout[347] has 5 components ... connecting
+INFO: This should be covered by other voxel (nearby = 6)
+INFO: This should be covered by other voxel (nearby = 6)
+INFO: Xout[348] has 8 components ... connecting
+INFO: Xout[349] accepted clean as generated
+INFO: Xout[350] has 2 components ... connecting
+INFO: Xout[351] accepted clean as generated
+INFO: Xout[352] has 9 components ... connecting
+INFO: This should be covered by other voxel (nearby = 48)
+INFO: This should be covered by other voxel (nearby = 96)
+INFO: This should be covered by other voxel (nearby = 96)
+INFO: This should be covered by other voxel (nearby = 320)
+INFO: This should be covered by other voxel (nearby = 320)
+INFO: This should be covered by other voxel (nearby = 320)
+INFO: Xout[353] has 3 components ... connecting
+INFO: Xout[354] has 7 components ... connecting
+INFO: This should be covered by other voxel (nearby = 6)
+INFO: This should be covered by other voxel (nearby = 6)
+INFO: This should be covered by other voxel (nearby = 66)
+INFO: This should be covered by other voxel (nearby = 66)
+INFO: This should be covered by other voxel (nearby = 34)
+INFO: Xout[355] has 3 components ... connecting
+INFO: Xout[356] accepted clean as generated
+INFO: Xout[357] has 2 components ... connecting
+INFO: Xout[358] has 3 components ... connecting

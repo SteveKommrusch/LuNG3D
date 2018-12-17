@@ -1,0 +1,6 @@
+../LuNG/EXP32_4_64_1K/pass1: Average min feature dist = 2.2091591608328898, MSE of Means = 0.17099939185815552
+../LuNG/EXP32_4_64_1K/pass2: Average min feature dist = 1.9034970469750838, MSE of Means = 0.08354752314380676
+../LuNG/EXP32_4_64_1K/pass3: Average min feature dist = 2.062912827006544, MSE of Means = 0.12266889549452269
+../LuNG/EXP32_4_64_1K/pass4: Average min feature dist = 1.8557683560380176, MSE of Means = 0.08866307403271396
+../LuNG/EXP32_4_64_1K/pass5: Average min feature dist = 1.8224115432515693, MSE of Means = 0.072881527824696
+../LuNG/EXP32_4_64_1K/pass6: Average min feature dist = 1.8443473590243804, MSE of Means = 0.07002361712269096
